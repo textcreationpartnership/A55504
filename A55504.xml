@@ -1,0 +1,572 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sovles life exercising it selfe in the sweet fields of divine meditations and prayers. Collected for the comfort of all those who willingly adventure their lives for the defence of the Gospel, in these blood-thirsty times of war.</title>
+            <author>Portman, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55504</idno>
+            <idno type="STC">Wing P3001B</idno>
+            <idno type="STC">ESTC R220485</idno>
+            <idno type="EEBO-CITATION">99831885</idno>
+            <idno type="PROQUEST">99831885</idno>
+            <idno type="VID">36352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36352)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2053:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sovles life exercising it selfe in the sweet fields of divine meditations and prayers. Collected for the comfort of all those who willingly adventure their lives for the defence of the Gospel, in these blood-thirsty times of war.</title>
+                  <author>Portman, Richard.</author>
+               </titleStmt>
+               <extent>[4], 138, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Harper, and are to be sold at his shop in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Richard Portman.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayer --  Early works to 1800.</term>
+               <term>Meditations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:36352:1"/>
+               <pb facs="tcp:36352:1" rendition="simple:additions"/>
+THE SOVLES LIFE: Exerciſing it ſelfe in the ſweet Fields of Divine Meditations and Prayers. Collected for the com<g ref="char:EOLhyphen"/>fort of all thoſe who wil<g ref="char:EOLhyphen"/>lingly adventure their lives for the defence of the Goſpel, in theſe blood-thirſty times of War.</p>
+            <p>LONDON, Printed for <hi>R. Harper,</hi> and are to be ſold at his ſhop in Smithfield, 1645.</p>
+            <pb facs="tcp:36352:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:36352:2" rendition="simple:additions"/>
+            <head>The Printer to the Reader.</head>
+            <p>VVHen this Booke came into my hands by means of a wel-wiſhing friend: after I had peruſed it, and the Title thereof, I thought it very ſitting, as well in regard of the Subject, being Divine Medita<g ref="char:EOLhyphen"/>tions, as of the devotion and intent of the Religious Author, to raiſe up the mindes of men from the troubleſome thoughts of theſe tempeſtuous times, that their Soules ſole hope might take An<g ref="char:EOLhyphen"/>chor hold upon God. The Subject of our Meditation is divers, as alſo of our prayer and thanks<g ref="char:EOLhyphen"/>giving; in regard whereof <hi>Hilary</hi> compareth the Pſalmes of <hi>David</hi> to a bunch of keyes, which (as by ſeverall doors) give us acceſſe to God: as ſome admiring him in his creatures and wonderfull works, ſome of thanksgiving for his mercyes and wonderfull delive<g ref="char:EOLhyphen"/>rance
+<pb facs="tcp:36352:3"/>
+of his people the children of Iſraell; others of exhortation to al Nations to know and rejoyce in him, and the like. Meditation (it is true though it be moſt pro<g ref="char:EOLhyphen"/>per to the private and ſolitary Soule retired from worldly affairs and buſines; yet is it a duty moſt neceſſary for all the ſervants of God at all times and in all places whereſoever to exerciſe them<g ref="char:EOLhyphen"/>ſelves in. <hi>Iſaac</hi> we read went out to meditate at the eventide, <hi>Gen.</hi> 24. 63. When I remember thee up<g ref="char:EOLhyphen"/>on my bed, ſaith <hi>David, Pſ.</hi> 63. 6 and meditate upon thee in the night watches. So that Medita<g ref="char:EOLhyphen"/>tion being ſo generally neceſſary for every true ſervant of God, &amp; a Subject of ſuch excellent uſe &amp; worth, I could not but publiſh this to the view of the world, though the pious Authors modeſty is ſuch, that he could be content to live, <hi>ſibi notus, ignotus aliis. Farewell.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36352:3"/>
+            <head>The Soules Life.</head>
+            <div n="1" type="meditation">
+               <head>MEDITATION I. <hi>Meditations and confeſ<g ref="char:EOLhyphen"/>ſions of mans ſinfull wayes.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">O</seg> Bleſſed God, when I con<g ref="char:EOLhyphen"/>ſider with my ſelf, how I have ſpent my time, nay rather miſ ſpent it, I trem<g ref="char:EOLhyphen"/>ble; for when I ſhould have
+<pb n="2" facs="tcp:36352:4"/>
+ſerved thee, my God, I ſer<g ref="char:EOLhyphen"/>ved mine owne luſts and e<g ref="char:EOLhyphen"/>vill affections; I walked too often in the vanity of mine owne wayes, and hearkened not to thy will and Com<g ref="char:EOLhyphen"/>mandements, which ſhould have been as a lanthorn and light to guide mee in thoſe darker pathes. It hath been mine unhappy errour to minde more the things of the world, then the things which concerne thee. I confeſſe, O Lord, that I have offended thee in all my wayes, both in thought, word and deed, and have ſerved the creature, more then the Creator. But, O
+<pb n="3" facs="tcp:36352:4"/>
+Lord, I humbly beg par<g ref="char:EOLhyphen"/>don of thee who art the God of mercy: Pardon therfore my miſdeeds, I be<g ref="char:EOLhyphen"/>ſeech thee, and caſt not a<g ref="char:EOLhyphen"/>way thy ſervant in diſplea<g ref="char:EOLhyphen"/>ſure. O Lord, I come unto thee upon the bended knees of my heart, and cry with the Publican, Lord be mer<g ref="char:EOLhyphen"/>cifull unto me a ſinner: for I know, O Lord, thou de<g ref="char:EOLhyphen"/>lighteſt not in the death of a ſinner, but that he ſhould repent and be ſaved. Save me therefore, O Lord, and make my wayes ſo direct for the time to come, that I may keepe thy commande<g ref="char:EOLhyphen"/>ments, and that I may doe
+<pb n="4" facs="tcp:36352:5"/>
+nothing but that which is acceptable in thy ſight: make me humble, for thou ſtandeſt afarre off from the proud: make both my ſoul and body as they ought to be, a fit Temple for the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, out of which, do thou, O Chriſt, drive away all worldly thoughts and vaine imaginations, chaſe buiers and ſellers of my hea<g ref="char:EOLhyphen"/>venly treaſure, and make me meditate on things a<g ref="char:EOLhyphen"/>bove. Clenſe me, O Lord, from all filthineſſe of ſinne and evill concupiſcence, and grant that for the time to come, I may ſerve thee in holineſſe and righteouſneſſe
+<pb n="5" facs="tcp:36352:5"/>
+all the dayes of my life; that when death ſhall ceaze on my body, my ſoule may without fear rejoyce, &amp; long to be with thee my Saviour and Redeemer, there to en<g ref="char:EOLhyphen"/>joy that happines and bliſſe, which thou haſt prepared for them that love thee.</p>
+            </div>
+            <div n="2" type="meditation">
+               <head>MEDITAT. II. <hi>Meditations of a penitent ſinner, hoping for par<g ref="char:EOLhyphen"/>don through the me<g ref="char:EOLhyphen"/>rits of Chriſt.</hi>
+               </head>
+               <p>O Lord, how are my daies waſted and come to an
+<pb n="6" facs="tcp:36352:6"/>
+end, even as a dreame that is told; how doe my nights paſſe away and are not to be recall'd againe? and how doe I forget what I have done againſt thee, my God? the ſinnes, alas, that I have committed are as innume<g ref="char:EOLhyphen"/>rable as the ſand on the ſea ſhore, not to be numbred by any but thy juſtice: and what account ſhall I make to thee, O Lord, when this tabernacle of mine ſhall bee diſſolved, and my ſoule ap<g ref="char:EOLhyphen"/>peare before thy Majeſty at the laſt and dreadfull day of judgement? where all that I have done ſhall be laid o<g ref="char:EOLhyphen"/>pen, and ſhall be as ſo many
+<pb n="7" facs="tcp:36352:6"/>
+witneſſes againſt me, and I not able to anſwer one of a thouſand: what ſhall I doe, Lord, or whither ſhall I go for ſuccour, no place can hide me from thy preſence, for thou filleſt all places, and art not excluded from any place; therefore I have no place to flie from thy juſtice? O Lord, I beſeech thee to remember the preti<g ref="char:EOLhyphen"/>ous bloud of thy dear Son, which was ſhed for me, his bloud is a ſufficient ranſome for the whole world, and for as many worlds as there are people; therefore, O Lord, I will not deſpaire of a ſhare in my Saviours ſuf<g ref="char:EOLhyphen"/>ferings;
+<pb n="8" facs="tcp:36352:7"/>
+he dyed as well for me as for others, and I hope through his merits I ſhall be ſaved; therefore I be<g ref="char:EOLhyphen"/>ſeech thee, O my Saviour, anſwer for me, and plead thou my cauſe, for in thee alone ſhall I be reconciled to my God, and ſhall have forgiveneſſe of all my ſins, be they never ſo many or grievous: Therefore, O my Soule, be not diſmaied, but comfort thy ſelfe in thy Sa<g ref="char:EOLhyphen"/>viour; for in ſtead of pu<g ref="char:EOLhyphen"/>niſhment thou ſhalt have a reward, thy reward ſhall be a Crowne of everlaſting glory, thy reward ſhall bee the rewarder, even God
+<pb n="9" facs="tcp:36352:7"/>
+himſelfe; thou ſhalt ſee and enjoy him whom none can ſee and not be bleſſed: thou ſhalt ſee and enjoy the fel<g ref="char:EOLhyphen"/>lowſhip of all the bleſſed Apoſtles, the holy Angels and Saints of God, and ſhalt ſing Hallelujahs and prayſes to the heavenly King, for ever and ever.</p>
+            </div>
+            <div n="3" type="meditation">
+               <head>MEDITAT. III. <hi>Meditations of the won<g ref="char:EOLhyphen"/>derfull goodneſſe and love of God to mankinde.</hi>
+               </head>
+               <p>O God, how wonderfull art thou in thy works; in
+<pb n="10" facs="tcp:36352:8"/>
+wiſdome haſt thou made them all, the Earth is full of thy riches, and ſo is the great and wide Sea alſo: this was thy great care and providence to mankinde, that before the creation of man, thou createdſt all things for his uſe, before thou ſenteſt him into the world, to the end he might not periſh, but be relieved with all things neceſſary, convenient and delightfull for him. O God, when I ſee the fields cloathed with corne, it makes my heart rejoyce with an exceeding great joy, and when I think thereupon, I conſider with
+<pb n="11" facs="tcp:36352:8"/>
+my ſelfe, it was thy provi<g ref="char:EOLhyphen"/>dence that provided that for me, which without I could not ſubſiſt: And when I ſee the ground bedecked with grapes, the green mea<g ref="char:EOLhyphen"/>dows with paſture, the mul<g ref="char:EOLhyphen"/>titude of woods abounding with trees, both for timber, fuell, and thouſands of o<g ref="char:EOLhyphen"/>ther uſes; as alſo the varie<g ref="char:EOLhyphen"/>ties of fruit trees in abun<g ref="char:EOLhyphen"/>dance; the rare mineralls which ſpring from the bo<g ref="char:EOLhyphen"/>wels of the earth, affording infinite wealth. I cannot but admire to ſee the multi<g ref="char:EOLhyphen"/>tude of cattle, both for food, cloathing, and many other accommodations; the
+<pb n="12" facs="tcp:36352:9"/>
+infinite ſtore of fowle of all kindes, the ſweet flowers in abundance; and the innu<g ref="char:EOLhyphen"/>merable ſorts of vegetables, all profitable and delight<g ref="char:EOLhyphen"/>full. I cannot but wonder at the great Ocean, and the innumerable varieties of fiſh, beſides the great com<g ref="char:EOLhyphen"/>modity wee enjoy by the ſhipping, voyaging to all parts of the world for com<g ref="char:EOLhyphen"/>modities, both for profit and pleaſure. When I con<g ref="char:EOLhyphen"/>ſider the firmament, how thou haſt beſpangled it with thoſe glorious crea<g ref="char:EOLhyphen"/>tures, the Sunne, Moon and Starres, and all for the uſe of man, to give light both
+<pb n="13" facs="tcp:36352:9"/>
+by day and by night; but a<g ref="char:EOLhyphen"/>bove all, that thou haſt gi<g ref="char:EOLhyphen"/>ven thy only begotten Son to dye for us; this is love be<g ref="char:EOLhyphen"/>yond all the love that ever was, theſe things tranſport me into an admiration, and compell me to praiſe and to love thee, O my God, with an exceeding great love: who is he, or what is he that will not praiſe thee, O Lord, for theſe thy un<g ref="char:EOLhyphen"/>ſpeakable mercies to man<g ref="char:EOLhyphen"/>kinde? O grant that I may no longer live, then I love thee! O God, I will love thee, I will bleſſe thee, I will magnifie thee ſo long as I have any being!</p>
+            </div>
+            <div n="4" type="meditation">
+               <pb n="14" facs="tcp:36352:10"/>
+               <head>MEDITAT. IV. <hi>Meditations of the love and ſufferings of our Saviour Chriſt for mankinde.</hi>
+               </head>
+               <p>O Sweet Saviour, what haſt thou ſuffered for my ſake, and what have I done to deſerve thy ſuffe<g ref="char:EOLhyphen"/>rings? alas, my ſinne was the cauſe of thy ſufferings; yet had'ſt thou not ſuffered for my ſinne, I had utterly periſhed, and been out of all poſſibility of being ſaved. I was guilty of ſinne, but thou kneweſt no ſinne, nei<g ref="char:EOLhyphen"/>ther
+<pb n="15" facs="tcp:36352:10"/>
+was there guile found in thy mouth: and what ſhal I render to thee, my Sa<g ref="char:EOLhyphen"/>viour, for thy unſpeakable love towards me! all I have is thine, and therefore I have nothing to give thee, or make any ſatisfaction to thee for thy love. O Saviour! thou haſt given me a tongue and underſtanding to the end I ſhould praiſe thee, therefore I offer unto thee my Redeemer, the ſacrifice of praiſe and thankſgiving, exrolling thy infinite mercy and clemency to thy poore creature. Thou, O ſweet Saviour, waſt naked, and I cloathed, thou my Redee<g ref="char:EOLhyphen"/>mer
+<pb n="16" facs="tcp:36352:11"/>
+waſt hungry, and I ſa<g ref="char:EOLhyphen"/>tisfied with bread; thou waſt ſcourged and buffeted, and I at eaſe feeling no pain; thou waſt ſpit on and rail'd on among thine enemies, and I in reſt and quiet a<g ref="char:EOLhyphen"/>mong my friends; thou waſt in priſon, and I at li<g ref="char:EOLhyphen"/>berty; thou ſuffereſt ſtorms and tempeſt at Sea, and I being upon drie land, was ſafe upon my pillow; thou waſt crucified upon the croſſe for my ſake, and ſuf<g ref="char:EOLhyphen"/>fered'ſt death for me. O unſpeakable love, for ever to be had in remembrance: never can I ſufficiently ma<g ref="char:EOLhyphen"/>gnifie thy wonderfull mer<g ref="char:EOLhyphen"/>cie,
+<pb n="17" facs="tcp:36352:11"/>
+patience and long ſuffe<g ref="char:EOLhyphen"/>ring.</p>
+               <p>O Saviour! give mee a heart that may alwayes bee mindfull of theſe thy won<g ref="char:EOLhyphen"/>derfull kindneſſes and un<g ref="char:EOLhyphen"/>parallel'd ſufferings, and that I may endeavour by all meanes poſſible, to love thee, and to dye for thee, as thou dyedſt for me: make me ſeriouſly to ponder and thinke of thee continually, and that my ſoule may ſo deſire thee, that it may ne<g ref="char:EOLhyphen"/>ver be at reſt till it enjoyes thee.</p>
+            </div>
+            <div n="5" type="meditation">
+               <pb n="18" facs="tcp:36352:12"/>
+               <head>MEDITAT. V. <hi>Meditations of Gods pre<g ref="char:EOLhyphen"/>ſervation of man.</hi>
+               </head>
+               <p>I Confeſſe, O God, thou preſerveſt me, yea when I thinke not of thy provi<g ref="char:EOLhyphen"/>dence, it is my dull ſottiſh<g ref="char:EOLhyphen"/>neſſe and ingratitude that makes me thus forget my God: How oft have I been in dangers both by ſea and land, ready to periſh, and yet it was thou alone that preſervedſt me, and I knew it not, becauſe I re<g ref="char:EOLhyphen"/>membred not thee, O God, as I ought to have done?
+<pb n="19" facs="tcp:36352:12"/>
+Thou haſt preſerved mee from the venome of falſe tongues, and I on a ſudden forgat it: I might have pe<g ref="char:EOLhyphen"/>riſhed oft in my going a<g ref="char:EOLhyphen"/>broad and comming home, but it was thy mercy that preſerved me<hi>:</hi> I might have miſcarried in my very meat and drinke, but for thy pro<g ref="char:EOLhyphen"/>vidence: thou haſt preſerved me from theeves and mur<g ref="char:EOLhyphen"/>derers, who would have confounded me: but above all, thou haſt preſerved mee from that roaring Lion, who ſtill ſeekes to devoure me, and from thoſe that lye in wait to catch my ſoule. O Lord, how ſhall I extoll
+<pb n="20" facs="tcp:36352:13"/>
+thy mercy ſufficiently for theſe unexpreſſeable fa<g ref="char:EOLhyphen"/>vours to me, wretched man that I am<hi>:</hi> thy love is won<g ref="char:EOLhyphen"/>derfull to me, and farre be it from me to thinke that I merit any thing from thee, O God: O Lord, make me, I beſeech thee, to thinke on thee continually, and to me<g ref="char:EOLhyphen"/>ditate on thee day &amp; night, alway expreſſing my thank<g ref="char:EOLhyphen"/>fulneſſe to thee for theſe thy marvellous preſervations: make me to praiſe thee, and to love thee with an excee<g ref="char:EOLhyphen"/>ding great love: knit my heart to thee, that I may feare thee and keepe thy commandements: O let me
+<pb n="21" facs="tcp:36352:13"/>
+doe nothing that may of<g ref="char:EOLhyphen"/>fend thee, leſt thou draw thy care and providence from me; for if thou, O Lord, ſhouldeſt leave me to my ſelfe, I were utterly loſt, and deprived of all help and comfort: I could bee no where ſafe, becauſe of mine enemies which are mighty and ſtrong, who leek to de<g ref="char:EOLhyphen"/>ſtroy both body and ſoule: leave me not therefore O my God, but hold thy hand of providence over me con<g ref="char:EOLhyphen"/>tinually: watch over my wayes and ſuffer not the e<g ref="char:EOLhyphen"/>nemy to have any advan<g ref="char:EOLhyphen"/>tage over me, hide me un<g ref="char:EOLhyphen"/>der the ſhadow of thy
+<pb n="22" facs="tcp:36352:14"/>
+wings, and preſerve both my body and ſoule, ſo ſhall I be ſafe from mine enemies.</p>
+            </div>
+            <div n="6" type="meditation">
+               <head>MEDITAT. VI. <hi>Meditations of the miſe<g ref="char:EOLhyphen"/>ries and calamities of the time.</hi>
+               </head>
+               <p>O God, how happy were we, when we enjoyed that great bleſſing of peace and tranquility? how were we both a mirror and a ter<g ref="char:EOLhyphen"/>ror to all the eyes of the Chriſtian world? how did our corne ſpring up with encreaſe of an hundred
+<pb n="23" facs="tcp:36352:14"/>
+fold, ſo that the people did rejoyce and ſing? how fruit<g ref="char:EOLhyphen"/>full was our Land with all manner of graine? how full of all creatures fit for the uſe of man? yea how did we abound in all things, ſo that we were able to live of our ſelves without the ſuc<g ref="char:EOLhyphen"/>cours of any other Nation? what a ſweet harmony and agreement was there among our ſelves, which made our enemies ſtand amazed at our felicity, when they themſelves enjoyed none of theſe bleſſings? O God, how comes this change, and unexpected miſery upon us that now we are in? Sure<g ref="char:EOLhyphen"/>ly
+<pb n="24" facs="tcp:36352:15"/>
+we did not value that bleſſing of peace, as wee ought to have done; ſurely it is our ſinne and ingrati<g ref="char:EOLhyphen"/>tude that hath drawne thy vengeance upon us: what a ſight is it to ſee the father ſhedding the bloud of the ſonne, and the ſonne the fa<g ref="char:EOLhyphen"/>ther? brother againſt bro<g ref="char:EOLhyphen"/>ther; kinſman againſt kinſ<g ref="char:EOLhyphen"/>man; one neighbour cut<g ref="char:EOLhyphen"/>ting the throat of another, and all the whole King<g ref="char:EOLhyphen"/>dome divided and plunged into a world of miſeries: how doe our fields lye bar<g ref="char:EOLhyphen"/>ren for want of tillage, our p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtures trodden and ſpoy<g ref="char:EOLhyphen"/>led with armies, our woods
+<pb n="25" facs="tcp:36352:15"/>
+cut downe, as if it were in<g ref="char:EOLhyphen"/>tended no more ſhould grow in our Land? How are our Cattle driven in flockes and heardes from place to place, and devou<g ref="char:EOLhyphen"/>red by the enemy, ſo that a famine muſt needes enſue? How are the poore people driven from their habitati<g ref="char:EOLhyphen"/>ons, for the preſervation of their lives, being bereft of houſe, goods and land, as if they had no right to thoſe poſſeſſions their Anceſtors left them? How are whole Townes burned without ei<g ref="char:EOLhyphen"/>ther pity or mercy? How many thouſands ſuffer for want of their means, which
+<pb n="26" facs="tcp:36352:16"/>
+heeretofore they received at pleaſure? O God! make us to prize that bleſſing of peace heereafter, at a higher rate, and give us thankefull hearts for all our enjoy<g ref="char:EOLhyphen"/>ments. Cleanſe the Land from ſinne, and turne away thy wrath from us. Helpe us, O God of our ſalvation! for the glory of thy name: O deliver us and be merci<g ref="char:EOLhyphen"/>full unto our ſinnes<g ref="char:punc">▪</g> for thy names ſake: ſo wee that are thy people, and ſheepe of thy paſture, will give thee thankes for ever and ever.</p>
+            </div>
+            <div n="7" type="meditation">
+               <pb n="27" facs="tcp:36352:16"/>
+               <head>MEDITAT. VII. <hi>A Prayer upon the ſame ſubject.</hi>
+               </head>
+               <p>O Moſt glorious Lord God! creator both of Heaven and Earth, and of all things contayned there<g ref="char:EOLhyphen"/>in; Father of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, and Judge of all the World: We miſerable ſinners acknowledge that we are a ſinfull people, la<g ref="char:EOLhyphen"/>den with ſinnes and iniqui<g ref="char:EOLhyphen"/>ties, we have deſerved thy wrath and indignation, and theſe heavy judgements which are now inflicted up<g ref="char:EOLhyphen"/>on
+<pb n="28" facs="tcp:36352:17"/>
+us, are deſervedly befal<g ref="char:EOLhyphen"/>len us: there is no goodnes in us, but we are filled with filthy corruption and ſinne: there is no whole part in us, from the crown of the head to the ſole of the foot, all are corrupted, ſinfull, and abominable: we have wal<g ref="char:EOLhyphen"/>ked in the vanity of our owne deſires and evill con<g ref="char:EOLhyphen"/>cupiſcence, wee have not hearkened to thy will and commandements, but have gone aſtray after our owne wayes and ſinfull luſts: we confeſſe, O Lord! that we have broken all thy com<g ref="char:EOLhyphen"/>mandements, and have of<g ref="char:EOLhyphen"/>fended thee continually,
+<pb n="29" facs="tcp:36352:17"/>
+both in thought, word, and deed. Our deſires and thoughts have beene more bent to the world, then to heaven &amp; heavenly things. O God! we cannot but ad<g ref="char:EOLhyphen"/>mire thy patience and long ſuffering, for it had been juſt with thee to have cut us off long agoe, and that wee ſhould have periſhed in that lake which burneth with fire and brimſtone for ever. What ſhall wee render to thee, O Lord, for thy un<g ref="char:EOLhyphen"/>ſpeakable mercies? Wee will take the cup of ſalvati<g ref="char:EOLhyphen"/>on, and call upon the Name of the Lord. O Lord, we beſeech thee to make our
+<pb n="30" facs="tcp:36352:18"/>
+wayes ſo direct for the time to come, that we may keep thy commandements: bri<g ref="char:EOLhyphen"/>dle our wills, tame our un<g ref="char:EOLhyphen"/>ruly affections, and ſuffer them not to ſtray ſo farre from thee. Faſten and im<g ref="char:EOLhyphen"/>print thy Laws in our hearts that we may feare thee, love thee, and obey thee in all things, and that our ſtudy may be to ſerve thee as thou haſt appointed: take away our ſtony hearts, and give us hearts of fleſh. Lord give us faith, hope, and charity, for without theſe graces, we ſhall never ſee thy face. Purge away all evill from us, and give us to ſerve thee
+<pb n="31" facs="tcp:36352:18"/>
+in holineſſe and righteouſ<g ref="char:EOLhyphen"/>neſſe all the dayes of our life. Give us peace in our time, O Lord, but eſpeci<g ref="char:EOLhyphen"/>ally the peace of conſci<g ref="char:EOLhyphen"/>ence: O Lord, unite the hearts of King and People together, that righteouſnes and peace may kiſſe each o<g ref="char:EOLhyphen"/>ther: and we beſeech thee, O God, out of thy bowels of compaſſion, to ſuffer no more bloud to bee ſhed in our land, and that wee may heare the voice of joy and gladneſſe in our dwellings. Grant this, O Lord, and all other things needefull for us, even for thy deare Sons ſake, JESUS CHRIST
+<pb n="32" facs="tcp:36352:19"/>
+our Lord and bleſſed Savi<g ref="char:EOLhyphen"/>our. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="8" type="meditation">
+               <head>MEDITAT. VIII. <hi>Meditations of Gods great love and mercy to his ſervant.</hi>
+               </head>
+               <p>O God, how am I bound to thee for thy unſpea<g ref="char:EOLhyphen"/>kable mercies towards mee, wretched ſinner: how can I forget thy exceeding love to me, that haſt given mee my limbs, my eye ſight, and my ſenſes, when many o<g ref="char:EOLhyphen"/>thers want all theſe, who
+<pb n="33" facs="tcp:36352:19"/>
+deſerve as well as I. Doe I not ſee, as I paſſe in the ſtreet, one poore man want armes, another legges, one wanting eye ſight, another being dumbe, ſome bowed together, others diſtracted wanting all maner of ſenſe, ſome their bodies feſtred and ready to periſh for want of ſuccour. Thou, O God, couldſt have done the like to me, ſure I am, I deſerved no leſſe puniſhment then they. Lord, let me live no longer then I ſhall praiſe thee for giving me al things theſe poore ſoules want and ſtand in need of. O let me extoll thy name for ever,
+<pb n="34" facs="tcp:36352:20"/>
+and let mee not forget to ſhew forth thy praiſe: let me be telling of thy kindneſſe to them that feare thee, and let my ſoule rejoyce in thee that haſt done ſuch great things for me. For what am I, O Lord, that thou ſhoul<g ref="char:EOLhyphen"/>deſt eſteeme me more then they; perhaps I have deſer<g ref="char:EOLhyphen"/>ved greater puniſhments, and yet thou ſpareſt me and afflicteſt them; ſure I am, my ſinnes have deſerved as great puniſhments as thou haſt layd upon them: Lord! I feare that thou haſt grea<g ref="char:EOLhyphen"/>ter puniſhments in ſtore for me, unleſſe I repent and be<g ref="char:EOLhyphen"/>come a new creature: Lord
+<pb n="35" facs="tcp:36352:20"/>
+give mee grace that I may timely repent, leſt thou af<g ref="char:EOLhyphen"/>flict my body heere in this valley of teares, and utterly confound my ſoule in Hell for ever. Make me, O Lord, to watch over my wayes, and to walke in that way thou haſt appointed: let me meditate upon thy Lawes and commandements, o let me not goe wrong for feare of thy Judgements: let me love thee, feare thee, and obey thee in all things; ſo ſhall I be happy, and enjoy that happineſſe which thou haſt prepared for all thoſe that love thee.</p>
+            </div>
+            <div n="9" type="meditation">
+               <pb n="36" facs="tcp:36352:21"/>
+               <head>MEDITAT. IX. <hi>Meditations of the judge<g ref="char:EOLhyphen"/>ments and afflictions that attend people in this world for ſin.</hi>
+               </head>
+               <p>WHen I conſider with my ſelfe, the wants, accidents, and afflictions, which attend people in this world, it amazes me; when I ſee great men with their ſtately Palaces, flowing and abounding in great riches and poſſeſſions, both for profit and pleaſure, and on
+<pb n="37" facs="tcp:36352:21"/>
+a ſudden they fall and come to nothing; nay, many times are they conſtrayned to bee beholding to inferiour men for releefe<hi>:</hi> Surely, theſe ſudden chaſtiſements come from thee, O God; ſurely, thou didſt it to bring them home to thee; thou afflict<g ref="char:EOLhyphen"/>eſt the body to ſave the ſoule. I have ſeene many of all ſorts live in great proſpe<g ref="char:EOLhyphen"/>rity, dreaming that time would laſt ever, and yet have I ſeene them come to want, being in a moſt miſe<g ref="char:EOLhyphen"/>rable condition: I my ſelfe have had a ſhare of theſe ſufferings, but not accord<g ref="char:EOLhyphen"/>ing to my deſervings: for,
+<pb n="38" facs="tcp:36352:22"/>
+Lord, if thou ſhouldſt mark what were done amiſſe, who were able to abide it? Therefore I acknowledge, O Lord, thou haſt been ve<g ref="char:EOLhyphen"/>ry favourable unto me; for in judgement thou haſt re<g ref="char:EOLhyphen"/>membred mercy: therefore will I prayſe thy Name, and render thee thanks even for ever and ever. O LORD, what need I care how or what my body ſuffereth, ſo thou ſave my ſoule: theſe meats, drinkes, clothing, ri<g ref="char:EOLhyphen"/>ches, and honour, they are but tranſitory things; for when the breath of man is gone, all theſe things vaniſh away: but it is the immor<g ref="char:EOLhyphen"/>tall
+<pb n="39" facs="tcp:36352:22"/>
+ſoule that I eſteeme and preferre before all things of this world. Lord, though my body want bread, feede thou my ſoule with the bread of life: if my body want cloathing, cloath thou my ſoule with thy righte<g ref="char:EOLhyphen"/>ouſneſſe; if all the riches, profits and pleaſures of this world fayle me, let mee en<g ref="char:EOLhyphen"/>joy thee, and I ſhall want nothing; let me have thee, and I have all things; if I want thee, I want all things. Thou, O God, art my life, my health, my riches, my pleaſure, my food, my ray<g ref="char:EOLhyphen"/>ment, my delight, the joy of my heart, and the foun<g ref="char:EOLhyphen"/>tayn
+<pb n="40" facs="tcp:36352:23"/>
+of all happines. Thou, O God, takeſt care of ſpar<g ref="char:EOLhyphen"/>rowes, and feedeſt yong ra<g ref="char:EOLhyphen"/>vens that call upon thee: how much more for us Chriſtians, who are made in the image of thee, O God? Lord, I beſeech thee, give me neither poverty nor riches, feed mee with food convenient for me, leſt I be full and deny thee, and ſay who is the Lord? or leſt I be poore, and ſteale, and take the Name of my God in vaine, <hi>Prov.</hi> 30. Give me what thou wilt, doe with me as thou wilt, and in all things diſpoſe of me accor<g ref="char:EOLhyphen"/>ding to thy good pleaſure.
+<pb n="41" facs="tcp:36352:23"/>
+Lord, I ſubmit my ſelfe to thee, humbly deſiring thee to take me into thy gracious protection, not only for this day, but for ever.</p>
+            </div>
+            <div n="10" type="meditation">
+               <head>MEDITAT. X. <hi>Meditations of the miſe<g ref="char:EOLhyphen"/>ry of Man, from his Infancy, to his old Age.</hi>
+               </head>
+               <p>O God, I cannot but con<g ref="char:EOLhyphen"/>ſider how miſerable Man is from his infancy to his grave. What a poor ſil<g ref="char:EOLhyphen"/>ly creature it is, being new<g ref="char:EOLhyphen"/>ly
+<pb n="42" facs="tcp:36352:24"/>
+ſprung from the wombe of the mother, what danger was there in his very en<g ref="char:EOLhyphen"/>trance into the world, when oftentimes it coſts the life of the mother, the child, or both? be it ſo that hee live, it is not able to help it ſelfe, either to food or cloathing, wanting both witte and ſtrength, being in a farre worſe condition then the beaſts of the field, for they bring their clothing with them into the world, and naturally can and doe apply themſelves to the Tett that yeeldes them nouriſhment. How is this poor infant nur<g ref="char:EOLhyphen"/>ſed and brought up with
+<pb n="43" facs="tcp:36352:24"/>
+much <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>endernes, care, trou<g ref="char:EOLhyphen"/>ble and charge to the Pa<g ref="char:EOLhyphen"/>rents, and let them doe all they can, now when they have done their uttermoſt, no ſooner is it able to goe, but it is attended with many hard accidents. Sometimes it falls into the fire, ſome times into the water, as if, poore thing, it were poſſeſt with the ſpirit of miſcha<g ref="char:cmbAbbrStroke">̄</g>ce. Sometimes it falls downe the ſtaires to the ground, and then againe into a pit below the ground, and ma<g ref="char:EOLhyphen"/>ny ſuch like accidents it is obnoxious to. Now mee thinks it is a wonder that it lives and comes to ſpeake,
+<pb n="44" facs="tcp:36352:25"/>
+and when it hath gotten the tongue, how perverſly doth it prattle, how hardly is it brought to ſchoole to learn to know it ſelfe, leave it but to its owne bent, and it will neither bee ſerviceable to God nor man. Now when it is got up to what wee call man, how wild and like an untamed beaſt is he, though all are not ſuch, wee muſt confes that many are? what dangers and troubles doe they fall into, and tis almoſt a miracle they come to old age? for ſome are drowned in the ſea or land waters, ſome are kill'd in duels, ſome in the warres, &amp; ſome
+<pb n="45" facs="tcp:36352:25"/>
+are put to death for heino us crimes, ſome by their lewd courſes come to meere beg<g ref="char:EOLhyphen"/>gery, and are in a manner loſt. And if it happen a man comes to old age, his miſe<g ref="char:EOLhyphen"/>ries are intolerable, having little or no joy of himſelfe. How are the eyes dim'd, which deprives him of the comfort of all holy Books? How doe his ſenſes fayle him, rendring him unca<g ref="char:EOLhyphen"/>pable of knowing or doing any thing as formerly: how feeble are his limbes, being not able to goe without the helpe of a ſtaffe or man? what a multitude of diſea<g ref="char:EOLhyphen"/>ſes attend him, as the ſtone,
+<pb n="46" facs="tcp:36352:26"/>
+gowt, palſey, and many o<g ref="char:EOLhyphen"/>ther; ſo that being bereft of his ſenſes, he hath ſmall comfort but what he enjoys in his ſoule? Now, O mi<g ref="char:EOLhyphen"/>ſerable man, what encou<g ref="char:EOLhyphen"/>ragement haſt thou to live in this world, or to ſet thy heart upon it? thou ſeeſt thy whole age is nothing but labour and ſorrow, thy comforts are few, thy ſor<g ref="char:EOLhyphen"/>rowes many and grievous: therefore looke to it, thou yong man, and remember thy Creator in the dayes of thy youth, whil'ſt thou haſt ſtrength and uſe of thy ſen<g ref="char:EOLhyphen"/>ſes, for in age it may be too late: ſerve thy God alwaies,
+<pb n="47" facs="tcp:36352:26"/>
+and pray to him for grace, and then thou needeſt not feare old age, nor any thing that doeth accompany it; thou needſt not feare death nor Hell, but ſhalt be happy heere on earth, and ſhalt re<g ref="char:EOLhyphen"/>ceive thy reward heereaf<g ref="char:EOLhyphen"/>ter in the kingdome of Hea<g ref="char:EOLhyphen"/>ven.</p>
+            </div>
+            <div n="11" type="meditation">
+               <head>MEDITAT. XI. <hi>Meditations on the ill life and actions of man.</hi>
+               </head>
+               <p>NOw, good God! how circumſpect ought we to bee of
+<pb n="48" facs="tcp:36352:27"/>
+our actions in this life, kno<g ref="char:EOLhyphen"/>wing that we muſt one day give an account for all the ſinnes that ever wee com<g ref="char:EOLhyphen"/>mitted? And if men would lay theſe things to heart, ſurely there would not bee ſo much wickedneſſe in the world. But, O the blind<g ref="char:EOLhyphen"/>neſſe of this world, how many live and ſpend their time, as if there were ney<g ref="char:EOLhyphen"/>ther a heaven to enjoy, nor a hell to ſuffer? what blood<g ref="char:EOLhyphen"/>ſheds are committed for a trifle, nay even for a raſh word, men are ready to murder one another? How oft doe men robbe on the high way, and break houſes
+<pb n="49" facs="tcp:36352:27"/>
+for a ſmall gaine oftentimes, ventring both ſoule and bo<g ref="char:EOLhyphen"/>dy in theſe unhumane acti<g ref="char:EOLhyphen"/>ons; yea many times doing theſe wicked actions for their meere recreation, and thus ſport away their ſouls. How many are there that commit whoredome, adul<g ref="char:EOLhyphen"/>tery, and many ſuch like crimes, even with greedi<g ref="char:EOLhyphen"/>neſſe? How doth this Land flow with exceſſe of drun<g ref="char:EOLhyphen"/>kenneſſe and glutony, vaine ſwearing, covetouſneſſe, deſpiſing the holy Scrip<g ref="char:EOLhyphen"/>ture, and prophaning the Lords day? What perju<g ref="char:EOLhyphen"/>ries, lying, couſening, back<g ref="char:EOLhyphen"/>biting and ſlandering one a<g ref="char:EOLhyphen"/>nother?
+<pb n="50" facs="tcp:36352:28"/>
+What revenge, what envy, hatred, malice, and all manner of unchari<g ref="char:EOLhyphen"/>tableneſſe is there amongſt us, committing all ſinnes that can be imagined? How doe men ſet their hearts up<g ref="char:EOLhyphen"/>on the world and worldly things, which profit no<g ref="char:EOLhyphen"/>thing, and neglect the weighty matters that con<g ref="char:EOLhyphen"/>cerne ſalvation? How wil<g ref="char:EOLhyphen"/>lingly are they led away to ſerve the world, the fleſh and the Divell, making vain pleaſures and profits of this world their ſole delight? O God, how fooliſh and be<g ref="char:EOLhyphen"/>ſotted is vaine man, to ne<g ref="char:EOLhyphen"/>glect thee, thy ſervice, and
+<pb n="51" facs="tcp:36352:28"/>
+his ſoules good? Conſider, O man, if thy ſoule were in hel, what wouldeſt thou not give or doe to be redeemed out of thoſe ſcorching flames, where the worme dieth not, neither is the fire quenched, and where thy torment ſhall be everlaſting. Wouldeſt thou not give a world, nay a thouſand worlds to be eaſed of thoſe paines? wouldeſt thou not caſt off all thoſe ſinnes be<g ref="char:EOLhyphen"/>fore mentioned, and ſtrive to ſerve thy God with all thy heart; yes ſurely thou wouldeſt, but then it will be too late: for what can buy thee from thence, when
+<pb n="52" facs="tcp:36352:29"/>
+thou haſt loſt Chriſt, that price of thy redemption? Therefore endeavour, O man, before it be too late, to make thy calling and electi<g ref="char:EOLhyphen"/>on ſure, ſo ſhalt thou bee happy both here, and eter<g ref="char:EOLhyphen"/>nally bleſt hereafter.</p>
+            </div>
+            <div n="12" type="meditation">
+               <head>MEDITAT. XII. <hi>Meditations of the ingra<g ref="char:EOLhyphen"/>titude of friends.</hi>
+               </head>
+               <p>VVHat cauſe haſt thou to build upon the friendſhip or favour of man; I confeſſe when they ſee thee in proſperity, wanting
+<pb n="53" facs="tcp:36352:29"/>
+nothing, then they will bee ready to offer their ſervice, and thou ſhalt have all the friendſhip and favour they can doe thee? I can com<g ref="char:EOLhyphen"/>pare this friendſhip to no fitter thing, then the caſting of water into the Sea that needs it not; but give me that man who will relieve thee in thy poverty, yea when all friends and ac<g ref="char:EOLhyphen"/>quaintance forſake thee, one dram of that mans friend<g ref="char:EOLhyphen"/>ſhip is worth a thouſand of thoſe friends. But when I conſider that man that hath been beneficiall to others, nay hath been ſecondarily the cauſe of all they have,
+<pb n="54" facs="tcp:36352:30"/>
+and thoſe friends to caſt him off in his poverty, and prove worſe to him then ſtrangers, nay oftentimes become his enemies: O God, what in<g ref="char:EOLhyphen"/>gratitude is this? Surely theſe people have neither charity, humanity, nor any brotherly affection, and are farre worſe in their nature then brute beaſts, for they helpe and ſuccour one ano<g ref="char:EOLhyphen"/>ther at all times. O God, let me cleave only to thee and thy providence, and then I am ſure to have a friend at all times, I need not feare poverty, nor in<g ref="char:EOLhyphen"/>gratitude of friends; if I de<g ref="char:EOLhyphen"/>pend upon thee, I am ſure
+<pb n="55" facs="tcp:36352:30"/>
+to want nothing, I ſhall have riches, friends, peace, plenty, and joy in the Holy Ghoſt, I ſhall have all contentment that can be imagined. I be<g ref="char:EOLhyphen"/>ſeech thee, O Lord, to mold and faſhion mee as thou wouldeſt have mee to bee, then ſhall I in proſperity re<g ref="char:EOLhyphen"/>member that all I have comes from thee, O God, and ſhall alway be mindfull to give thee thanks for thoſe bleſſings I enjoy: And in adverſity I ſhall humble my ſelfe under the mighty hand of thee, O God, and ſhall acknowledge that my ſins have juſtly deſerved thoſe ſufferings, and ſhall patient<g ref="char:EOLhyphen"/>ly
+<pb n="56" facs="tcp:36352:31"/>
+wait upon thee, O Lord, untill thou have mercy, ca<g ref="char:EOLhyphen"/>ſting all my care upon thee, who abundantly provideſt for all thoſe that put their truſt in thee.</p>
+            </div>
+            <div n="13" type="meditation">
+               <head>MEDITAT. XIII. <hi>Meditations of the va<g ref="char:EOLhyphen"/>nity of Pride.</hi>
+               </head>
+               <p>O God, when I conſider what man is in himſelf, what a poore fraile, weake and miſerable creature hee is, not able ſo much as to thinke one good thought of himſelfe, much leſſe to
+<pb n="57" facs="tcp:36352:31"/>
+do any thing that is good, it makes me wonder how hee can be proud, or what hee ſhould bee proud of: Is it thy cloaths thou vaine man that puffe thee up to pride? thou haſt little or no cauſe for that, for thou art behol<g ref="char:EOLhyphen"/>ding to the wormes and beaſts of the field for them, they are but the rags they caſt off, therefore thou haſt no cauſe to bee proud of them. Is it thy learning, knowledge, wit and memo<g ref="char:EOLhyphen"/>ry, or any other endow<g ref="char:EOLhyphen"/>ment? Surely thou mayeſt not be prond of theſe; for what haſt thou that thou haſt not received? if thou
+<pb n="58" facs="tcp:36352:32"/>
+haſt received thoſe things from God, why doſt thou boaſt? Is it thy riches, ſtore of bags and great po<g ref="char:EOLhyphen"/>ſeſſions, thy honour, beauty or perſon? Alas poor man! deceive not thy ſelfe, for thoſe things cannot laſt long, this night thy ſoule may bee taken from thee; and what art thou the bet<g ref="char:EOLhyphen"/>ter for thoſe things which of neceſſity thou muſt leave behinde thee, nay rather how much worſe art thou by the poſſeſſion of thoſe things which thou haſt im<g ref="char:EOLhyphen"/>ployed to thy owne de<g ref="char:EOLhyphen"/>ſtruction? Now mayeſt thou clearly know and un<g ref="char:EOLhyphen"/>derſtand
+<pb n="59" facs="tcp:36352:32"/>
+that thou haſt no cauſe to be thus exalted, and the Scripture ſaith, That the beginning of Pride is, when a man departeth from God; if it be ſo, what a miſerable caſe art thou in? for ſurely if thou leaveſt God, he will leave thee; and if he leave thee, what joy or comfort canſt thou have in thy garments, wit or lear<g ref="char:EOLhyphen"/>ning, or in thy riches, ho<g ref="char:EOLhyphen"/>nour or beauty, or in any o<g ref="char:EOLhyphen"/>ther thing? nay what diſ<g ref="char:EOLhyphen"/>comforts ſhall attend thee, when thou pondreſt with thy ſelfe that thou art a loſt man, and haſt forſaken thy God, who is the fountaine
+<pb n="60" facs="tcp:36352:33"/>
+of riches, honour, beauty, peace and plenty, and from whom commeth every good and perfect gift? how ſad will thy ſoule be when it is bereft of all heavenly comfort? how fearfull will the very name of death bee unto thee, when thou ſhalt conſider that thy ſoule ſhall after this life remain in hell for ever, being deprived of all hope of comfort, unleſſe thou repent? Conſider therefore theſe things thou proud man, and humble thy ſelfe betimes; caſt away all vaine imaginations of Pride, and ſerve thy God with feare and reverence,
+<pb n="61" facs="tcp:36352:33"/>
+with meekneſſe and true ſorrow for thy ſinnes, and then ſhalt thou bee happy both here and hereafter.</p>
+            </div>
+            <div n="14" type="meditation">
+               <head>MEDITAT. XIV. <hi>Meditations of Summer and Winter.</hi>
+               </head>
+               <p>O God, I cannot but ad<g ref="char:EOLhyphen"/>mire the wonderfull goodneſſe of thy provi<g ref="char:EOLhyphen"/>dence to us miſerable ſin<g ref="char:EOLhyphen"/>ners! what care thou haſt, O my God, to provide all things neceſſary and de<g ref="char:EOLhyphen"/>lightfull for us. With what joy doe we welcome Sum<g ref="char:EOLhyphen"/>mer
+<pb n="62" facs="tcp:36352:34"/>
+after a cold Winter, and certaine it is, we are not able to live without it: doe but ſee how many thou<g ref="char:EOLhyphen"/>ſands of acres all growne with corne; ſee all trees, herbes, flowers, paſture, and all manner of green things, each ſtriving to ſet forth o<g ref="char:EOLhyphen"/>ther; ſee the birds how ſweetly they chirp and wel<g ref="char:EOLhyphen"/>come both Spring and Summer with their war<g ref="char:EOLhyphen"/>bling notes; ſee how that glorious lampe the Sunne, cheers all creatures with his bright beams; how tempe<g ref="char:EOLhyphen"/>rate and delightfull is the aire, inviting every man to take the benefit of it, in the
+<pb n="63" facs="tcp:36352:34"/>
+ſweet meadows, bedecked with variety of flowers, the pleaſantneſſe of this time is ſuch, that a man could wiſh it would laſt ever; but on a ſudden, after all theſe comforts, joyes, profits and delights, we forget them and him that ſent them; then comes in cold hoary Winter that bereaves us of theſe delights; ſee how all things change their hew, how dull and dead doe the trees, meadows, and all o<g ref="char:EOLhyphen"/>ther things looke, the diſ<g ref="char:EOLhyphen"/>comfort is ſuch, that men are unwilling to behold them; how ſad and dull are the birds, as if they had
+<pb n="64" facs="tcp:36352:35"/>
+loſt their quality of warb<g ref="char:EOLhyphen"/>ling; how dead and dole<g ref="char:EOLhyphen"/>full doth every thing ap<g ref="char:EOLhyphen"/>peare to us, how blacke and dungeon-like are the long and cold winter nights? Methinks this ſudden altera<g ref="char:EOLhyphen"/>tion ſhould put us in minde of our proſperity and adver<g ref="char:EOLhyphen"/>ſity; how doe men flouriſh in proſperity, having all things at will? how do they abound in their great poſſeſ<g ref="char:EOLhyphen"/>ſions of lands and houſes, having coyne at all times to purchaſe all the delights the world can afford, and the ingratitude of theſe men is ſuch, that they for<g ref="char:EOLhyphen"/>get him that gave it them;
+<pb n="65" facs="tcp:36352:35"/>
+then comes in the cold win<g ref="char:EOLhyphen"/>ter of adverſity that chan<g ref="char:EOLhyphen"/>geth their hue, and plun<g ref="char:EOLhyphen"/>geth them into a world of dolours and griefs; then how unwilling are they to appeare to the world, hi<g ref="char:EOLhyphen"/>ding themſelves like an Owle in a buſh; how ſad and dejected are they for want of thoſe things which heretofore they did abound in? O God, thou in thy wiſdome knoweſt what is fitteſt for us, wee beſeech thee make us in proſperity to remember that all wee have or enjoy, comes from thee, and that we may make a right uſe of them to thy
+<pb n="66" facs="tcp:36352:36"/>
+glory, rendring thee thanks continually for them. And in adverſity, order us ſo, that we may remember and acknowledge that what we ſuffer is deſervedly for our ſinne and ingratitude. Lord make us as thou wouldeſt have us to be, then ſhall we be happy.</p>
+            </div>
+            <div n="15" type="meditation">
+               <head>MEDITAT. XV. <hi>Meditations of the cove<g ref="char:EOLhyphen"/>tous rich-man, and the poor labouring-man.</hi>
+               </head>
+               <p>SEe the difference be<g ref="char:EOLhyphen"/>tweene the rich-man and
+<pb n="67" facs="tcp:36352:36"/>
+the poor-man: how penuri<g ref="char:EOLhyphen"/>ous and griping is the one, being never at reſt nor quiet for feare hee ſhall loſe that he hath, or that his plots, bargaining or over-reaching will not take effect. How doth he labour and toyle to increaſe his wealth, ſcarce enjoying one good houre? how doth hee impoveriſh himſelfe by his greedy de<g ref="char:EOLhyphen"/>ſires, depriving himſelfe of the benefit of thoſe good things God hath given him, when the other is content with little, being not cer<g ref="char:EOLhyphen"/>taine of that little neither, having nothing but what he labours for, and many times
+<pb n="68" facs="tcp:36352:37"/>
+failes of that by reaſon of ſickneſſe or ill pay-maſters; and yet this poore man Ile warrant you enjoyes more happy dayes in one yeare, then the rich-man doth in ſeven, and ſleepes more ſounder ten to one then the other. What difference is there in their dyet, the rich-man perhaps hath variety of dainties at his table, and may have them when he will, if covetouſneſſe hinder not: the poore-man he is ſure of nothing, but if any comes its welcome, be it more or leſſe; nay if it be but a diſh of herbs or roots, he is as well content with it as the
+<pb n="69" facs="tcp:36352:37"/>
+rich-man with all his dain<g ref="char:EOLhyphen"/>ties. See the difference of their habiliments; the rich-man he is cloathed in pur<g ref="char:EOLhyphen"/>ple and fine linnen, when all the pride the poor-man hath, is to cover him<g ref="char:EOLhyphen"/>ſelfe with a homely gar<g ref="char:EOLhyphen"/>ment to keepe out the wea<g ref="char:EOLhyphen"/>ther, not regarding either faſhions or coſtly rayment. See the difference of their mindes, how proud, ſcorn<g ref="char:EOLhyphen"/>full and above meaſure ex<g ref="char:EOLhyphen"/>alted is this rich-man? how diſdainfully doth he looke upon his inferiours, as if they were not worthy to behold his pride? how doth he trample the poor under<g ref="char:EOLhyphen"/>foot,
+<pb n="70" facs="tcp:36352:38"/>
+and looks as high as if all the world were under his power, when the poor-man, he contents himſelfe with his humility and low thoughts, being courteous, loving and kinde to his neighbours, living meekly and in the feare of God. See the difference of their lives, the rich-man his thoughts are moſt on his lands, goods cattell, tenants, purchaſing, and what hee ſhall eat and drinke, when the poor-man his ſtudy is to ſerve his God and to get his bread by the ſweat of his brows, this is all his delight. Now you may ſee the difference, the
+<pb n="71" facs="tcp:36352:38"/>
+rich-man hee ſpends all or the greateſt part of his time in pride, covetouſneſſe, glut<g ref="char:EOLhyphen"/>tony, idleneſſe and worldly vanity, the poor-man in his dayly labour and ſervice of God. O rich-man, conſi<g ref="char:EOLhyphen"/>der that thou haſt a ſoule to ſave or to damne, therefore ſpend not thy time ſo la<g ref="char:EOLhyphen"/>viſhly and fooliſhly; let God have a part of it here, leſt hee deprive thee of the riches of his heavenly King<g ref="char:EOLhyphen"/>dome hereafter. Conſider that thy wealth was not gi<g ref="char:EOLhyphen"/>ven thee on thoſe termes thou ſhouldeſt forget him that gave it to thee: Tell mee what joy canſt thou
+<pb n="72" facs="tcp:36352:39"/>
+have with all thy riches and poſſeſſions when death comes to ſummon thee to another world, where thou muſt give an account for all thy actions? will thy ri<g ref="char:EOLhyphen"/>ches ſave thee? no, all the riches and poſſeſſions of this world will not keepe thee from that fearfull ſentence, Goe ye curſed into everla<g ref="char:EOLhyphen"/>ſting fire; nay rather will they encreaſe thy account. Therefore have a care whileſt thou haſt time to ſpend it in the ſervice of thy God, remembring that up<g ref="char:EOLhyphen"/>on this moment depends eternity.</p>
+            </div>
+            <div n="16" type="meditation">
+               <pb n="73" facs="tcp:36352:39"/>
+               <head>MEDITAT. XVI. <hi>Meditations of the ſuffe<g ref="char:EOLhyphen"/>rings of Gods dear chil<g ref="char:EOLhyphen"/>dren in this world, and of the benefit they ſhall receive thereby.</hi>
+               </head>
+               <p>O God, what need wee care for theſe light af<g ref="char:EOLhyphen"/>flictions here in this world, they cannot laſt long, and who would not willingly embrace them to purchaſe a better world, nay to gain the Kingdome of Heaven?
+<pb n="74" facs="tcp:36352:40"/>
+Our Bleſſed Saviour he ſuf<g ref="char:EOLhyphen"/>fered ten thouſand times more then any of us; nay he ſuffered more then we are able to ſuffer, and are we to good to beare a part? rather let me not live, then to bee ſuch a ſonne as the father will not correct. Suppoſe a man hath a wound in his body, and that wound full of dead fleſh, would he not willingly indure to have that dead fleſh cut out, ra<g ref="char:EOLhyphen"/>ther then to have it gangren and deſtroy the whole bo<g ref="char:EOLhyphen"/>dy? even ſo is it with the ſoule, there is a wound in the ſoule by ſinne, and God ſends croſſes and afflictions
+<pb n="75" facs="tcp:36352:40"/>
+to cure the ſoule: Lord, let my wound ſmart, rather then my body periſh; let my body ſmart for a little time here, rather then my ſoule burne for ever in Hell. Holy <hi>David</hi> ſaid, It was good for him that he was afflicted, for before, he went aſtray; was it good for him, and is it not good for us? ſure none of us are ſo good as he, for he was a man after Gods owne heart, and knew very well that afflictions were good for him, otherwiſe he would not have ſaid ſo; he remem<g ref="char:EOLhyphen"/>bred that whom God loves he chaſtiſeth, even every ſon whom he receiveth; nay
+<pb n="76" facs="tcp:36352:41"/>
+they are baſtards and not ſonnes that will not endure correction. Lord, how did the bleſſed Apoſtles and Martyrs ſuffer, theſe were ſawne aſunder, others ſto<g ref="char:EOLhyphen"/>ned, ſome whipt and ſcour<g ref="char:EOLhyphen"/>ged, others crucified: their faith was exerciſed in wat<g ref="char:EOLhyphen"/>chings, faſtings, ſhipwracks, impriſonments, being naked and deſtitute of all com<g ref="char:EOLhyphen"/>fort? How were many o<g ref="char:EOLhyphen"/>thers of Gods deare chil<g ref="char:EOLhyphen"/>dren tormented; <hi>Daniel</hi> in the Lions den, <hi>Ionas</hi> in the Whales belly, <hi>Sampſon</hi> a<g ref="char:EOLhyphen"/>mong the Philiſtims, <hi>Iere<g ref="char:EOLhyphen"/>my</hi> in the Dungeon; beſides multitudes of others, whoſe
+<pb n="77" facs="tcp:36352:41"/>
+tortures have beene very great? and certainly none of theſe ſhould have ſuffe<g ref="char:EOLhyphen"/>red thus, had not God loved them, and ſaw it fit for them; ſurely hee did it to weane them from the world and worldly things, and that their everlaſting happi<g ref="char:EOLhyphen"/>neſſe in the Kingdome of heaven, might by their pa<g ref="char:EOLhyphen"/>tience here bee improved, where is all joy and no ſor<g ref="char:EOLhyphen"/>row, where is fulneſſe of all beatitude. Therefore con<g ref="char:EOLhyphen"/>ſider, O my ſoule, and com<g ref="char:EOLhyphen"/>fort thy ſelfe with theſe Meditations, and feare nei<g ref="char:EOLhyphen"/>ther want, impriſonment, nor death, for all theſe ſhall
+<pb n="78" facs="tcp:36352:42"/>
+work for the better to them that love God.</p>
+            </div>
+            <div n="17" type="meditation">
+               <head>MEDITAT. XVII. <hi>Meditations of the cove<g ref="char:EOLhyphen"/>tous deſire men have to attain riches.</hi>
+               </head>
+               <p>LOrd, what adoe is there in this world to gaine riches? how doe men la<g ref="char:EOLhyphen"/>bour and toyle to get a little muck or dirt, they think no<g ref="char:EOLhyphen"/>thing too much, no time ſo well ſpent in any thing as in the purchaſe of this unrigh<g ref="char:EOLhyphen"/>teous mammon, when God
+<pb n="79" facs="tcp:36352:42"/>
+knows whether they ſhall live to enjoy it one houre? How vigilant and carefull are they to riſe early, and ſit up late, ſcarce enjoying one good houre in all their life time? Nay, many men there are, and God knowes too many that ſcarce make any conſcience how they come by their wealth; they will couſen their friend, their kinſ-man; nay their owne father if it lye in their way, and will venter both ſoule and body rather then faile of their deſires. What delight doe they take in the ſight of their muſty bags? and what pleaſure have
+<pb n="80" facs="tcp:36352:43"/>
+they <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> their gold, no mu<g ref="char:EOLhyphen"/>ſicke in the world is ſo de<g ref="char:EOLhyphen"/>lightfull to them, as the chinking of this fine dirt? But what, ſaith our Saviour, Where your treaſure is, there are your hearts alſo? and againe, How hard is it for a rich man to enter into the Kingdome of heaven, it is eaſier for a Camell to go through a needles eye, then for a rich man to come there? if it be ſo, have a care thou worldling that thou art not ſnatched away from thy riches before thou haſt made thy peace with thy God. Set not thy heart too much upon thoſe things
+<pb n="81" facs="tcp:36352:43"/>
+thou canſt not keep, and re<g ref="char:EOLhyphen"/>member that God ſent thee not into the world to ſerve only thy ſelfe and thy co<g ref="char:EOLhyphen"/>vetous deſires, but to doe him ſervice, and to lay up treaſure in Heaven for thy ſoules good. I diſlike not an honeſt and lawfull gain, and true it is, that it is a glo<g ref="char:EOLhyphen"/>ry to a Nation to bee rich, they may doe much good with it both to King and Kingdome; they may build Hoſpitalls, Schooles and Almes-houſes, they may erect houſes to ſet the poore on worke, they may relieve the widow, the fatherleſſe, and all that ſtand in need. If
+<pb n="82" facs="tcp:36352:44"/>
+they imploy it thus, they doe well, but let them have a care they get their wealth honeſtly and conſcionably, otherwiſe all this will doe them no good. Therefore be ſure thou covetous man, to preferre God and his ſer<g ref="char:EOLhyphen"/>vice in the firſt place, for otherwiſe, thou robbeſt him of his honour, and en<g ref="char:EOLhyphen"/>dangereſt thine owne ſoul which Chriſt died for.</p>
+            </div>
+            <div n="18" type="meditation">
+               <pb n="83" facs="tcp:36352:44"/>
+               <head>MEDITAT. XVIII. <hi>Meditations of the feare of death.</hi>
+               </head>
+               <p>O God! with what dread do men expect death? how loath are they to quit this their earthly Taberna<g ref="char:EOLhyphen"/>cle? Methinkes it is an ill ſigne, either that they have not lived ſo well as they ſhould have done, or they love the world too well, to part with it. For mine owne part, I ſee nothing in the world that ſhould ſo in<g ref="char:EOLhyphen"/>vite mee to imbrace it; I meet with nothing but care,
+<pb n="84" facs="tcp:36352:45"/>
+trouble, vexations, ſorrow and a world of miſeries. O God, I certainly know that the thing I moſt delight in, I am weary of on a ſuddain, and I find it a burden to me. Perhaps ſome will ſay, I have riches in abundance, ſo that I can purchaſe all the delights the world can af<g ref="char:EOLhyphen"/>ford. But what ſaith <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> that exceeded all the world in wiſdome, riches, honour, and all delights whatſoever, <hi>All is vanity,</hi> ſaith he, <hi>and vexation of ſpi<g ref="char:EOLhyphen"/>rit.</hi> Suppoſe thou doſt enjoy all theſe things, they cannot laſt long, they are but mo<g ref="char:EOLhyphen"/>ment any, either they are ta<g ref="char:EOLhyphen"/>ken
+<pb n="85" facs="tcp:36352:45"/>
+from thee, or thou from them; for <hi>David</hi> ſaith, <hi>Thine age is but a ſpan long,</hi> there<g ref="char:EOLhyphen"/>fore thou canſt not poſſeſſe them long: It may be this day thy ſoule ſhall be taken from thee, nay perhaps this night, it may bee this very houre; therefore there is no cauſe why thou ſhouldeſt bee unwilling to part with that, which thou art not ſure of one houre: and if thou haſt lived well, ſurely the very thought of death will be a great comfort to thee, and death it ſelf a welcome gueſt: For certainly all the life of man is but labour and ſorrow, and where a
+<pb n="86" facs="tcp:36352:46"/>
+man enjoyes one comfort, he hath a thouſand diſcom<g ref="char:EOLhyphen"/>forts for it, and there is no true comfort nor perfection in this world. Conſider therefore that thy dayes are few, and thy griefes many; wherefore then wouldeſt thou live? O God! who would not exchange a mi<g ref="char:EOLhyphen"/>ſerable &amp; wretched world, for a heavenly Kingdome? who would not bee willing to leave the ſociety of wic<g ref="char:EOLhyphen"/>ked and ungodly men to enjoy thee? who would not gladly leave his riches, honour, and vaine delights, to enjoy him who is the fountaine of everlaſting ri<g ref="char:EOLhyphen"/>ches,
+<pb n="87" facs="tcp:36352:46"/>
+honour and delight, and to bee among the An<g ref="char:EOLhyphen"/>gells and Saints of God, where is all joy and no ſor<g ref="char:EOLhyphen"/>row, where thou ſhalt bee ſatisfied with all things thou deſireſt, and there ſhall be no end of thy happines; thou ſhalt follow the Lamb whereſoever he goeth, and ſhalt bee raviſhed with ex<g ref="char:EOLhyphen"/>ceeding great joy, and de<g ref="char:EOLhyphen"/>light in him that liveth for evermore.</p>
+            </div>
+            <div n="19" type="meditation">
+               <pb n="88" facs="tcp:36352:47"/>
+               <head>MEDITAT. XIX. <hi>Meditations on the ſame Subject, with ſatisfa<g ref="char:EOLhyphen"/>ction to him that fears death.</hi>
+               </head>
+               <p>THou, O man, what ſo<g ref="char:EOLhyphen"/>ever thou art that feares to dye! what canſt thou ſay for thy ſelfe? perhaps thou wilt ſay thou feareſt the pangs of death, or that thou art unwilling to leave thy profits, pleaſures, and delights of the world; or it may bee thou art doubtfull whither thy ſoule ſhall goe
+<pb n="89" facs="tcp:36352:47"/>
+after death. To rhe firſt I anſwer, That true it is, the pangs of death are great, but they endure not long; I am perſwaded, that there are many torments in this world that are as great, and are of a longer durance<hi>:</hi> as for example; a fit of the ſtone, or gout, or the paines of a woman in her travell. Theſe I conceive are no leſſe torments, &amp; of longer continuance: and this is cer<g ref="char:EOLhyphen"/>taine, that many men dye with leſſer pain then any of theſe inflict, for I have ob<g ref="char:EOLhyphen"/>ſerved, they lye quietly, ſel<g ref="char:EOLhyphen"/>dome or never complai<g ref="char:EOLhyphen"/>ning, and ſo depart without
+<pb n="90" facs="tcp:36352:48"/>
+either groane or ſigh; if this be true, as I am ſure it is, thou haſt no cauſe to fear death. Then thou wilt ſay, thou art unwilling to leave thy profits, pleaſures and delights of the world. Certainly there can bee no profit, pleaſure or delight here, that can be compared to thoſe in heaven, where thou ſhalt have the King<g ref="char:EOLhyphen"/>dome of heaven for thy poſſeſſion, a Crowne of glory for thy reward, with true pleaſures and bliſſe for evermore. The profits of the world are but for a ſhort time, but thoſe are for eternity: and ſurely if the
+<pb n="91" facs="tcp:36352:48"/>
+profits and delights of this world pleaſe thee ſo much, as that thou art unwilling to leave them, without all queſtion thoſe in heaven will much more delight thee, and they muſt needs be far exceeding theſe, where God himſelfe is in a more ſpeciall manner then upon earth. Perhaps thou wilt ſay, my ſoule is ſafe here, but when it ſhall depart from my body, I know not whither it goeth. Thou vaine man, how haſt thou ſpent thy time? haſt thou ſerved thy God as thou oughteſt? haſt thou viſited the fatherleſſe and widow
+<pb n="92" facs="tcp:36352:49"/>
+in their afflictions? haſt thou kept thy ſelfe unſpot<g ref="char:EOLhyphen"/>ted of the world? If thou haſt done theſe things, thy ſoule ſhall as ſurely goe to heaven, even as ſure as thy body is here upon earth: for the Scripture ſaith, <hi>He that beleeveth in me, althogh he dye, yet ſhall he live.</hi> And <hi>Iob</hi> ſaith, <hi>My Redeemer li<g ref="char:EOLhyphen"/>veth, and I ſhall ſee him with theſe eyes.</hi> O thou vaine man, now haſt thou no ex<g ref="char:EOLhyphen"/>cuſe for thy ſelfe; thou needſt not feare the pangs of death, nor be unwilling to leave the profits and pleaſures of the world, nei<g ref="char:EOLhyphen"/>ther needs thou doubt whi<g ref="char:EOLhyphen"/>ther
+<pb n="93" facs="tcp:36352:49"/>
+thy ſoule goeth, for certainly it ſhall bee with God for ever in Heaven, where it ſhall enjoy the ſo<g ref="char:EOLhyphen"/>ciety of all the bleſſed Saints and Angels, where it ſhall have riches, honour, peace and plenty, where this ſoule ſhall bee raviſhed in her fruition, which frui<g ref="char:EOLhyphen"/>tion like herſelfe, ſhall bee everlaſting.</p>
+            </div>
+            <div n="20" type="meditation">
+               <pb n="94" facs="tcp:36352:50"/>
+               <head>MEDITAT. XX. <hi>Meditations of the joyes of Heaven reſerved for the godly.</hi>
+               </head>
+               <p>THe joyes that are pre<g ref="char:EOLhyphen"/>pared for the Elect, are infinite beyond the capaci<g ref="char:EOLhyphen"/>ty of any mortall man to conceive, but ſo farre as they are revealed in the ho<g ref="char:EOLhyphen"/>ly Scripture, I may ſafely ſet downe here: Firſt, that as ſoone as thy ſoule is de<g ref="char:EOLhyphen"/>parted from the body, it goeth to Heaven, where thou ſhalt ſee God thy
+<pb n="95" facs="tcp:36352:50"/>
+Creator and Protector, the Sonne thy Redeemer and Interceſſor, the Holy Ghoſt thy comforter and directer: where thou ſhalt ſee An<g ref="char:EOLhyphen"/>gels, Archangels, Vertues, Powers, Principalities, Do<g ref="char:EOLhyphen"/>minations, Thrones, Che<g ref="char:EOLhyphen"/>rubins and Seraphins: and theſe are a multitude of the heavenly hoaſt, who are al<g ref="char:EOLhyphen"/>way prayſing God. Thou ſhalt ſee the Celeſtiall Ci<g ref="char:EOLhyphen"/>tizens arrayed in comely Robes of linnen, pure and white, like their innocency. Theſe are the ſoules of juſt and perfect men, which e<g ref="char:EOLhyphen"/>ven in the very in ſtant of departure from this life, are
+<pb n="96" facs="tcp:36352:51"/>
+preſented by the Angels to their Saviour, and by him adorned with theſe invalu<g ref="char:EOLhyphen"/>able Robes of Righteouſ<g ref="char:EOLhyphen"/>neſſe. Here mayeſt thou ſee the Patriarchs, Prophets, Apoſtles, Martyrs, Virgins; and beſides theſe, an innu<g ref="char:EOLhyphen"/>merable multitude of all Nations, Kindreds, and People, and Tongues, ſtan<g ref="char:EOLhyphen"/>ding before the Throne of God, and before the Lamb, with palmes in their hands, in token of aſſured victory, and crying with a loud voice, <hi>Salvation to our God which ſitteth upon the Throne, and unto the Lamb:</hi> And thou mayeſt heare all the
+<pb n="97" facs="tcp:36352:51"/>
+Angels anſwering and ſay<g ref="char:EOLhyphen"/>ing, <hi>Bleſsing and glory, and wiſdome, and thankſgiving, and honour, and power, and might bee unto God for ever and ever; when God ſhall wipe away all teares from thine eyes, and there ſhall bee no more death, neither ſorrow, nor crying, neither ſhall there be any more pain, for the for<g ref="char:EOLhyphen"/>mer things are paſſed away.</hi> Oh God! what ſoule would not deſire to be uncloathed &amp; to be cloathed upon, &amp; to be at reſt with thee, &amp; to en<g ref="char:EOLhyphen"/>joy all this happines which farre exceeds any happines we can poſſibly thinke off? Be joyfull and glad, O my
+<pb n="98" facs="tcp:36352:52"/>
+ſoule, for thou haſt a King<g ref="char:EOLhyphen"/>dome provided for thee, a Crowne of glory, a place where all joy and bliſſe a<g ref="char:EOLhyphen"/>bounds. This world is but dung and droſſe in compa<g ref="char:EOLhyphen"/>riſon of it, therefore mind not the world, nor worldly things; but let thy conver<g ref="char:EOLhyphen"/>ſation be in Heaven, let thy ſole delight be there, think upon it continually, and give thy ſoule no eaſe nor reſt, till it attaine that eter<g ref="char:EOLhyphen"/>nall reſt.</p>
+            </div>
+            <div n="21" type="meditation">
+               <pb n="99" facs="tcp:36352:52"/>
+               <head>MEDITAT. XXI. <hi>Meditations of mans vain miſpending his time.</hi>
+               </head>
+               <p>HOw comes it to paſſe that many men ſet their hearts and ſole delight up<g ref="char:EOLhyphen"/>on the world and worldly things, neglecting the ſer<g ref="char:EOLhyphen"/>vice of God and their ſouls good, ſpending the greateſt part of their time in carking and caring how they ſhall gaine riches, being never ſatisfied with that portion of meanes God hath lent
+<pb n="100" facs="tcp:36352:53"/>
+them, but coveting for more and more, as if they made this world the end of their happineſſe. Others there are that ſpend moſt of their time in the pleaſures and delights of the world, as if they were ſent hither to no other end and pur<g ref="char:EOLhyphen"/>poſe, but to ſerve their own vaine wills and filthy de<g ref="char:EOLhyphen"/>ſires, ſporting and deligh<g ref="char:EOLhyphen"/>ting themſelves in courting of women, in chambring and wantonneſſe, in luſts and evill affections, ſetting their hearts wholly upon the pleaſures and delights of the world, and ſo trifle out their owne time. Su<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e theſe
+<pb n="101" facs="tcp:36352:53"/>
+men know not what the po<g ref="char:EOLhyphen"/>wer of religion is, for if they did, they would conſider that this is no abiding place, they muſt not remaine here long, this is not their home, their home is Heaven. But let me tell this ſort of men, they are travellers and pil<g ref="char:EOLhyphen"/>grims, and if they loyter and wander out of the way, per<g ref="char:EOLhyphen"/>haps they may come ſhort of home. O God, what ſoul content can theſe men have when they ſhall conſider ſeriouſly how they have ſpent their time? what ac<g ref="char:EOLhyphen"/>count will they make, when thou, O God, ſhalt reckon with them for all the ſinnes
+<pb n="102" facs="tcp:36352:54"/>
+that ever they committed? what a ſad and diſmall day will that be, when they will not be able to anſwer one of a thouſand? how ter<g ref="char:EOLhyphen"/>rible will it be to thinke on the torments of Hell, where there is nothing but how<g ref="char:EOLhyphen"/>ling and crying, weeping and gnaſhing of teeth, and where thoſe torments ſhall be everlaſting? how ſad will they be to thinke how they have neglected the ſer<g ref="char:EOLhyphen"/>vice of God and their ſouls good, in pleaſing them<g ref="char:EOLhyphen"/>ſelves with their ungodly vanities? Conſider theſe things in time all yee that forget God, and be ſure to
+<pb n="103" facs="tcp:36352:54"/>
+ſpend your time in his ſer<g ref="char:EOLhyphen"/>vice; caſting away all co<g ref="char:EOLhyphen"/>vetous deſires and worldly vanities, then ſhall you bee right Pilgrims and Travel<g ref="char:EOLhyphen"/>lers indeed, and ſhall never goe out of your way, your journey ſhall bee pleaſant and delightfull to the end, your home ſhall be Heaven, and your entertainment ſhall be riches, honour, de<g ref="char:EOLhyphen"/>light, and pleaſures for e<g ref="char:EOLhyphen"/>vermore: <hi>Such as eye hath not ſeen, nor ear heard, nor ever hath entred into the heart of man, what God hath prepared for them that love him.</hi>
+               </p>
+            </div>
+            <div n="22" type="meditation">
+               <pb n="104" facs="tcp:36352:55"/>
+               <head>MEDITAT. XXII. <hi>Meditations on the ſight of a pleaſant Garden.</hi>
+               </head>
+               <p>MEE thinkes when I come into a faire and pleaſant Garden, and ſee the infinit varieties of flowers and herbs, I cannot but ad<g ref="char:EOLhyphen"/>mire the wonderfull good<g ref="char:EOLhyphen"/>neſſe of God, his power, wiſdome, and love to man<g ref="char:EOLhyphen"/>kinde! I cannot but conſi<g ref="char:EOLhyphen"/>der that theſe things had ne<g ref="char:EOLhyphen"/>ver been but for the bounti<g ref="char:EOLhyphen"/>full providence of the Al<g ref="char:EOLhyphen"/>mighty, intending the good of his creature man. How
+<pb n="105" facs="tcp:36352:55"/>
+pleaſant and delightfull are theſe flowers to the eye, we ſee various ſorts of them, yet not one like the other? See the rareneſſe of their dreſſe, the beauteous variety of their colours, how richly they are ſet forth and ſha<g ref="char:EOLhyphen"/>dowed, no Painter in the world is able to come neare them for excellency, Art is but Natures ape: doe but pluck them and make them into a Noſe-gay, and you ſhall ſee a moſt glorious ſhew, and the ſcent of them will infinitly delight you. See the different ſorts of herbs, they are all greene, and yet if you view them
+<pb n="106" facs="tcp:36352:56"/>
+well you ſhall find them all differ both in colour and faſhion. How pleaſant and delightfull are they to the eye and ſcent; nay, that is not all, they are uſefull to ſome for food, others for phyſick, and many for green wounds and bruiſes: nay the natures and uſes of them all, are not knowne to the rareſt and moſt learned Herballiſt or Phyſitian in the world; certainly none ever knew them rightly but King <hi>Solomon.</hi> See the good<g ref="char:EOLhyphen"/>neſſe of God to his people, how he doth not only pro<g ref="char:EOLhyphen"/>vide cloathing, food, and ſuch neceſſaries, but ſends
+<pb n="107" facs="tcp:36352:56"/>
+things delightfull, medici<g ref="char:EOLhyphen"/>nall and healing too. My thinks this Garden puts me in minde of that heavenly Garden of Gods Word, you may ſee there varieties of comfortable flowers, both for ſoule and body, and for all neceſſities. There you may ſee comfort for the afflicted, whether in body or minde. You may ſee Gods providence and power, delivering his peo<g ref="char:EOLhyphen"/>ple out of priſon, out of the fire, out of the Denne of Lions, out of the hands of their enemies, out of ſhipwracke at Sea. His feeding <hi>Elias</hi> by a Raven in
+<pb n="108" facs="tcp:36352:57"/>
+the wilderneſſe, and thou<g ref="char:EOLhyphen"/>ſands of ſuch like preſerva<g ref="char:EOLhyphen"/>tions and deliverances; you may ſee and learn wiſdom, temperance patience, faith, hope and charity, humility, meekneſſe and brotherly kindneſſe. Here you may ſee all ſorts of ſin, and how to avoid them, and you may ſee that bitter herb too, cal<g ref="char:EOLhyphen"/>led puniſhme<g ref="char:cmbAbbrStroke">̄</g>t due to ſinners: alſo you may ſee the good lives of Gods children, and the rewards they have in the Kingdome of Heaven. You may ſee Gods Attributes, his power, wiſdome and love to mankind. You may ſee our Saviours love in his
+<pb n="109" facs="tcp:36352:57"/>
+ſufferings for man, his mi<g ref="char:EOLhyphen"/>racles and wonders, and thouſands of other comfor<g ref="char:EOLhyphen"/>table flowers. Certaine it is, that no Garden in the world is like this, this is plea<g ref="char:EOLhyphen"/>ſant and beautifull, it yeelds comfort to all; the happi<g ref="char:EOLhyphen"/>neſſe of this Nation is ſuch, that they may walke and delight themſelves in it at all times, when other Nati<g ref="char:EOLhyphen"/>ons are hardly permitted to looke in. Let us then con<g ref="char:EOLhyphen"/>ſider, admire, love and praiſe our good God for his infinite mercy to us, in af<g ref="char:EOLhyphen"/>fording us that happineſſe which no Nation in the world exceeds us in. Let
+<pb n="110" facs="tcp:36352:58"/>
+us adore and magnifie his marvellous clemency and goodneſſe to us unworthy ſinners, let us extoll and land his name, and let us be ſhewing forth his praiſe from generation to genera<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div n="23" type="meditation">
+               <pb n="111" facs="tcp:36352:58"/>
+               <head>MEDITAT. XXIII. <hi>A Meditation on Muſick, in which as it were by way of digreſsion, the lawfulneſſe of that Sci<g ref="char:EOLhyphen"/>ence is aſſerted.</hi>
+               </head>
+               <p>O God! thou great Ar<g ref="char:EOLhyphen"/>chitect and compoſer of all things, though I can<g ref="char:EOLhyphen"/>not but wonder at, and ad<g ref="char:EOLhyphen"/>mire thoſe rare Arts and Sciences, with the know<g ref="char:EOLhyphen"/>ledge of which, thou haſt endued the ſonnes of men; yet of all, that of Muſick, as it moſt nearly affects my
+<pb n="112" facs="tcp:36352:59"/>
+ſenſe, ſo doth it moſt high<g ref="char:EOLhyphen"/>ly raiſe my admiration. What a multitude of inven<g ref="char:EOLhyphen"/>tions is there in this Sci<g ref="char:EOLhyphen"/>ence, that although it hath beene ſtudied by millions of men, for thouſands of years, and ever ſince <hi>Iubal</hi> (who was the father of all ſuch as did handle the Harp and Organ, as we may ſee in <hi>Geneſis,</hi> Chap. 4.) yet none could ever attaine to the full ſcope or perfection of it. Yet thus much I may ſafely ſay for the ho<g ref="char:EOLhyphen"/>nour of our Nation, that for the generality of Muſicke, they have not beene inferi<g ref="char:EOLhyphen"/>our to any Nation in the
+<pb n="113" facs="tcp:36352:59"/>
+world. And as this Science is none of the meaneſt, ſo I am ſure it is one of the moſt difficult; for let a man read the Theory all the dayes of his life, and he ſhall come ſhort of the Practicke; ſo let him uſe only the Practicke, and he will yet be unskilfull for want of the Theory; ſo that the way to make a Mu<g ref="char:EOLhyphen"/>ſitian compleat, is to ſtudy both. But let us view this Science in ſome particular branch of it; ſee but the quality of a ſinger, let him begin at the age of five or ſix, and continue untill gray hayres, &amp; he will, I am ſure, confeſſe that hee is not yet
+<pb n="114" facs="tcp:36352:60"/>
+perfect in his quality, there is ſomething more for him to do, if he could find what it is, he diſcovers a want of skill, and will be ſtudying for alteration or addition; now all this while, this is but one part of the Science; neither is it otherwiſe with Inſtrumental Practitioners; although they labour either upon the Organ, Virginall, Lute, Violl or Harpe, all their dayes, yet they will finde themſelves much be<g ref="char:EOLhyphen"/>low that Alt of perfection. Now if it bee thus difficult with vocal and inſtrumental men, ſurely it muſt needs bee far more difficult with
+<pb n="115" facs="tcp:36352:60"/>
+compoſers, who profeſſe the greateſt and moſt excel<g ref="char:EOLhyphen"/>lent part of Muſick; ſurely their ſtudy and travell muſt undoubtedly far exceed all others. I could ſhew you the infinite variety exacted to be in a compoſer, but I am not now to diſpute, but meditate: And for the re<g ref="char:EOLhyphen"/>pute of this Noble Science, it hath alwayes beene in higheſt eſteeme among the beſt and greateſt Worthies of the world; for it is well knowne; that divers Kings and Princes, tooke great pleaſure, and have arrived to an high pitch of know<g ref="char:EOLhyphen"/>ledge in it: for inſtance,
+<pb n="116" facs="tcp:36352:61"/>
+King <hi>Henry</hi> the eight, who compoſed a Song of eight parts, a thing worthy his great name: <hi>Lewis,</hi> the late French King, compoſed di<g ref="char:EOLhyphen"/>vers Songs, and many Prin<g ref="char:EOLhyphen"/>ces of <hi>Italy</hi> have beene ex<g ref="char:EOLhyphen"/>cellent in this Science, ha<g ref="char:EOLhyphen"/>ving publiſhed to the world, divers ſets of Songs: famous Queene <hi>Elizabeth,</hi> of happy memory, was no ſmall Practitioner of this Art. Nor may we without great admiration obſerve the ſtrange power and effi<g ref="char:EOLhyphen"/>cacy of this Science. When <hi>David</hi> played on his Harp, the evill Spirit liked it ſo well, he would not ſtay to
+<pb n="117" facs="tcp:36352:61"/>
+heare it, but left <hi>Saul,</hi> who of a King, was become his ſubject; and certainly if there bee any that hate the laudable uſe of this quality, we may ſuſpect, that this e<g ref="char:EOLhyphen"/>vill Spirit delights to dwell with them, where hee may not be troubled with it. Nay which is more ſtrange, the Prophet <hi>Eliſha</hi> could not propheſie untill an Inſtru<g ref="char:EOLhyphen"/>ment was brought to him and played on, as you may ſee in the ſecond of <hi>Kings,</hi> Chap. 3. <hi>But now bring me a minſtrell, and it came to paſſe, when the minſtrell play<g ref="char:EOLhyphen"/>ed, that the hand of the Lord <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame upon him, and hee pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>pheſied.</hi>
+                  <pb n="118" facs="tcp:36352:62"/>
+Obſerve wee the twentieth Chap. of the ſe<g ref="char:EOLhyphen"/>cond Booke of <hi>Chron.</hi> that when <hi>Iehoſhaphat</hi> had con<g ref="char:EOLhyphen"/>ſulted with the people, <hi>hee appointed Singers unto the Lord, that ſhould praiſe the beauty of holineſſe, as they went out before the Army, and to ſay, Praiſe the Lord, for his mercy endureth for ever: And when they began to ſing, and to praiſe, then the Lord ſet ambuſhments againſt the children of Ammon, Moab, and mount Seir, which were come againſt Iudah, and they were all ſmitten, and <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>e eſ<g ref="char:EOLhyphen"/>caped.</hi> See the tenth Chap<g ref="char:punc">▪</g> of <hi>Samuel,</hi> verſe 5. <hi>After</hi>
+                  <pb n="119" facs="tcp:36352:62"/>
+                  <hi>that, thou ſhalt come to the hill of God, where is the Garriſon of the Philiſtines, and it ſhall come to paſſe, when thou art come thither to the City, that thou ſhalt meet a company of Prophets comming downe from the high place, with a Pſaltery, and a Tabre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and a Pipe, and a Harpe before them, and they ſhall pro<g ref="char:EOLhyphen"/>pheſie, and the Spirit of the Lord will come upon thee, and thou ſhalt propheſie with them, and ſhalt be turned in<g ref="char:EOLhyphen"/>to another man, and the Spi<g ref="char:EOLhyphen"/>rit of God, came upon Saul, and hee propheſied among them.</hi> See the firſt of <hi>Chron.</hi> Chap. 25. <hi>Moreover David</hi>
+                  <pb n="120" facs="tcp:36352:63"/>
+                  <hi>and the Captaines of the hoſt, ſeparated to the ſervice of the ſons of Aſaph, and of Heman, and of Iedutbun, who ſhould propheſie with Harps, with Pſalteries, and with Cym<g ref="char:EOLhyphen"/>bals.</hi> See cap. ib. <hi>The ſix ſons of Ieduthun, under the hands of their father Ieduthun, who propheſied with Harps, to give thanks, and to praiſe the Lord.</hi> Now we may plain<g ref="char:EOLhyphen"/>ly ſee, that Kings and Pro<g ref="char:EOLhyphen"/>phets went both to prophe<g ref="char:EOLhyphen"/>ſie, and to battaile with Mu<g ref="char:EOLhyphen"/>ſicke. And ſurely Muſick was a furtherance to them, otherwiſe they would not have made uſe of it. You can hardly meet that holy
+<pb n="121" facs="tcp:36352:63"/>
+Muſitian <hi>David,</hi> without either an Inſtrument in his hand, or a Song in his mouth, with which he play<g ref="char:EOLhyphen"/>ed and ſung praiſes to God; as in the ſecond of <hi>Samuel,</hi> Chap. 6. <hi>And David and all the houſe of Iſrael played before the Lord, on all manner of Inſtruments made of Fir<g ref="char:EOLhyphen"/>wood, even on Harps, Pſal<g ref="char:EOLhyphen"/>teries, Timbrels, Cornets, and cymbals.</hi> Surely had not Mu<g ref="char:EOLhyphen"/>ſick beene pleaſing to God, <hi>David</hi> durſt not have plaied before him, nay I am con<g ref="char:EOLhyphen"/>fident he would not; and if God himſelfe delights in this harmony of his crea<g ref="char:EOLhyphen"/>tures, ſhall man whoſe
+<pb n="122" facs="tcp:36352:64"/>
+breath is in his noſtrils, diſ<g ref="char:EOLhyphen"/>piſe that which the ever li<g ref="char:EOLhyphen"/>ving God ſeems to delight in. We may obſerve alſo, that Muſicke was uſed oft<g ref="char:EOLhyphen"/>times, before the Arke of God, and when the Pro<g ref="char:EOLhyphen"/>phets propheſied, and uſu<g ref="char:EOLhyphen"/>ally before a deliverance, and after. And we may read in the firſt of <hi>Chron.</hi> the e<g ref="char:EOLhyphen"/>ſteem that <hi>David</hi> had of Muſicke and the Profeſſors of it, for he appointeth Mu<g ref="char:EOLhyphen"/>ſitians to attend continually on the Arke. And in the the Booke of <hi>Pſalmes,</hi> hee dedicated three and fifty Pſalmes to the Chiefe Mu<g ref="char:EOLhyphen"/>ſitian <hi>Ieduthun,</hi> to the end,
+<pb n="123" facs="tcp:36352:64"/>
+he ſhould compoſe on them skilfully. And in <hi>Nehem.</hi> cap. 12. you may take notice, that the Muſitians builded them villages round about <hi>Ieruſalem,</hi> that they might be neare the City to praiſe the Lord. Nor is it unwor<g ref="char:EOLhyphen"/>thy our obſervation, that when God had recovered King <hi>Hezekiah</hi> of a dange<g ref="char:EOLhyphen"/>rous ſickneſſe neare unto death, adding fifteene yeares to his life, having alſo mira<g ref="char:EOLhyphen"/>culouſly ſet the Sunne ten degrees backward for his ſake; he expreſt his thank<g ref="char:EOLhyphen"/>fulneſſe to God, in this Song of his: <hi>The Lord was ready to ſave me, therefore</hi>
+                  <pb n="124" facs="tcp:36352:65"/>
+                  <hi>we will ſing my Songs to the ſtringed inſtruments, all the dayes of our life, in the houſe of the Lord.</hi> See the 15 Chap. of <hi>Exodus,</hi> how that after the Children of <hi>Iſrael</hi> were delivered out of the hands of <hi>Pharaoh</hi> and his hoſte; <hi>Then ſang Moſes and the Children of Iſrael this ſong unto the Lord, and ſpake, ſaying, I will ſing unto the Lord: for he hath triumphed gloriouſly, the horſe and his rider hath he thrown into the ſea, &amp;c.</hi> And in the ſame Chapter, <hi>And Miriam the Propheteſſe the ſiſter of Aa<g ref="char:EOLhyphen"/>ron, to<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke a Timbrel in her hand, and all the women went</hi>
+                  <pb n="125" facs="tcp:36352:65"/>
+                  <hi>out after her with Timbrels and with dances. And Mi<g ref="char:EOLhyphen"/>riam anſwered them, Sing ye to the Lord, for he hath tri<g ref="char:EOLhyphen"/>umphed gloriouſly; the horſe and his rider hath he throwne into the ſea.</hi> Likewiſe in the ſecond of <hi>Chron.</hi> Chap. 15. <hi>The people entred into a co<g ref="char:EOLhyphen"/>venant to ſeeke the Lord with all their heart and ſoule. They ſware unto the Lord, with a loud voice, and with ſhouting, and with Trumpets, and with Cornets.</hi> I yet more admire when I read the ſecond of <hi>Chron.</hi> Chap. 5. <hi>The Levites which were the ſin<g ref="char:EOLhyphen"/>gers, all of them of Aſaph, of Heman, of Ieduthun with</hi>
+                  <pb n="126" facs="tcp:36352:66"/>
+                  <hi>their ſons, and their brethren, being arrayed in white linnen having Cymbals and Pſalte<g ref="char:EOLhyphen"/>ries, and Harps, ſtood at the Eaſt end of the Altar, and with them an hundred and twenty Prieſts ſounding with Trumpets: And it came to paſſe, as the Trumpets and ſingers were as one, to make one ſound to be heard in pray<g ref="char:EOLhyphen"/>ſing and thanking the Lord: and when they lift up their voyces with the Trumpets and Symbals, and inſtruments of Muſicke, and prayſed the Lord, ſaying, For he is good, for his mercy endureth for e<g ref="char:EOLhyphen"/>ver: that then the houſe was filled with a cloud, even the</hi>
+                  <pb n="127" facs="tcp:36352:66"/>
+                  <hi>houſe of the Lord. So that the Prieſts could not ſtand to miniſter, by reaſon of the cloud, for the glory of the Lord filled the houſe of God.</hi> You ſee that God was pleaſed to grace this facred conſort with the glory of his owne preſence, whereas had hee beene diſpleaſed, they could not expect to have had more then <hi>Moſes</hi> lot, when he ſaw only the back parts of the Almighty. Nay when we obſerve the poor Birds, how they delight in chirping and warbling out their notes, expreſſing their joy at the approach of the Spring, as if God had ſent
+<pb n="128" facs="tcp:36352:67"/>
+them on purpoſe to tell us of the good tydings of a Summer neare at hand, we muſt needs fancy that thoſe pretty creatures by a natu<g ref="char:EOLhyphen"/>rall inſtinct are affected with Muſick as being them<g ref="char:EOLhyphen"/>ſelves the Choriſters of the aire; and we ſee that a bird, though priſoner in a cloſe cage, cannot leave his na<g ref="char:EOLhyphen"/>ture, but will imitate thoſe ſounds which are whiſtled to him, and had not this bird beene naturally plea<g ref="char:EOLhyphen"/>ſed with thoſe noats whiſt<g ref="char:EOLhyphen"/>led to him, all the world could never have compel<g ref="char:EOLhyphen"/>led him. We ſee that irra<g ref="char:EOLhyphen"/>tionall creatures naturally
+<pb n="129" facs="tcp:36352:67"/>
+love and are delighted with Muſick, and why ſhould not man, being indued with knowledge and underſtan<g ref="char:EOLhyphen"/>ding farre above all other creatures? True it is, the moſt commendable end of Muſicke is the praiſe of God; and very meet it is, that Muſicke ſhould praiſe him, whoſe gift it is. My ſoule, thou haſt diſcovered the lawfull uſe and rare ex<g ref="char:EOLhyphen"/>cellency of this Science; now a while entertaine thy ſelfe with its manifold ac<g ref="char:EOLhyphen"/>commodations and bene<g ref="char:EOLhyphen"/>fits: There is no law to be compared with Love, nor any Art to the Art of Mu<g ref="char:EOLhyphen"/>ſick;
+<pb n="130" facs="tcp:36352:68"/>
+tis a refreſhing to the minde oppreſſed with ſor<g ref="char:EOLhyphen"/>rowes; the heart quickens the reſt of the members, and Muſick that heart. It is commendable, I had al<g ref="char:EOLhyphen"/>moſt ſaid neceſſary for youth, to exerciſe them<g ref="char:EOLhyphen"/>ſelves in this divine Art, for it fils the mind and affecti<g ref="char:EOLhyphen"/>ons with cleane thoughts, and will not leave ſo much as one corner or cranee for unchaſte imaginations; ſo that the ſerious Practioners thereof, are I may ſafely ſay at that inſtant of time, not obnoxious to any ſinne, ei<g ref="char:EOLhyphen"/>ther in thought, word or deed. O my ſoule, do thou
+<pb n="131" facs="tcp:36352:68"/>
+ever love that which does reſiſt ſinne, for it muſt needs bee of God. Now ſome perhaps will object, that Muſick is hurtfull, in re<g ref="char:EOLhyphen"/>gard of divers wanton and laſcivious ditties? but to this, I deny that the Muſick is hurtfull, for take away thoſe ditties, and either ſing or play thoſe notes that were compoſed upon thoſe ditties, and you ſhall finde nothing but innocency and harmony in them; now the fault is partly in the Poet, and partly in the Muſitian; the fault on the Poets part is, that hee contrives ſuch wanton and idle words; and
+<pb n="132" facs="tcp:36352:69"/>
+on the Muſitians part for compoſing on them: And I confeſſe ingeniouſly, that I could wiſh there were no roome for them in <hi>England;</hi> alſo it is to bee wiſhed that people of all ſorts could ſing their parts, eſpecially thoſe that have ill ears; for if you pleaſe to obſerve at the ſinging of Pſalmes in the Church, you ſhall heare ſuch untunable voyces, and ſuch intollerable diſcords, that no man or woman that hath well tuned voyces, but are exceedingly diſpleaſed with it, it being a hindrance to devotion. And the A<g ref="char:EOLhyphen"/>poſtle ſaith, <hi>Let all things be</hi>
+                  <pb n="133" facs="tcp:36352:69"/>
+                  <hi>done decently and in order.</hi> But ſure I am, there is no good ſoule, but is pleaſed and delighted with harmo<g ref="char:EOLhyphen"/>ny, nay they muſt needs be ſo, if they love their owne ſoule, which it ſelfe is com<g ref="char:EOLhyphen"/>poſed of harmony. If all this cannot indeare Muſicke to the Reader, rather then hee ſhall remaine diſaffected, wee will fetch arguments from Heaven to perſwade him: And without doubt, the glorified ſoules of Men and Angels, do perpetually rejoyce and ſing Halelujaes to God in Heaven, from whence once they brought a conſort to this lower
+<pb n="134" facs="tcp:36352:70"/>
+world, when that quire ſung at the birth of our Bleſſed Saviour, <hi>Glory be to God on high, &amp;c.</hi> if then the Angels in Heaven, do ſeem to exerciſe themſelves in this divine Art, by uſing this metaphor of Muſicke, and muſicall inſtruments; I wonder what is in it which diſpleaſeth? which to make good, ſee <hi>Revelation</hi> Chap. 8. <hi>And I ſaw ſeven Angels, which ſtood before God, and to them<g ref="char:punc">▪</g> were given ſeven Trumpets.</hi> And in the 14 Chap. <hi>And I heard the voyce of Harpers, harping with their Harps.</hi> And in the 15 Chap. <hi>And I ſaw as it were</hi>
+                  <pb n="135" facs="tcp:36352:70"/>
+                  <hi>a ſea of glaſſe, mingled with fire, and them that had got<g ref="char:EOLhyphen"/>ten the victory over the beaſt, and over his image, and over his marke, and over the num<g ref="char:EOLhyphen"/>ber of his name, ſtand on the ſea of glaſſe, having the Harps of God; and they ſing the ſong of Moſes the ſervant of God, and the ſong of the Lamb, ſaying, Great and marvellous are thy works, Lord God Al<g ref="char:EOLhyphen"/>mighty, juſt and true are thy waies, thou King of Saints.</hi> Yet O my ſoul, though thou lo<g ref="char:EOLhyphen"/>veſt Muſick ſo well, I wiſh thou mighteſt looſe the pleaſure of all, to heare the bleſſed harmony of thoſe glorious Inſtruments, thoſe
+<pb n="136" facs="tcp:36352:71"/>
+Harps of God. But of all, this one conſideration may warrant this my Meditati<g ref="char:EOLhyphen"/>on; that when the exerciſe of Arts faile, yet in heaven, as long as there is a God to praiſe, ſo long there will be Muſick, even to eternity: for there it ſhall not want time to meaſure it, where infinit<g ref="char:EOLhyphen"/>neſſe ſhall be its proportion; and ſure if we may admire the ſimilitude and ſhadow of any thing, then is Muſick to be admired, which is no<g ref="char:EOLhyphen"/>thing but the ſhadow and embleme of Paradiſe, of which it puts us in minde; by which only heaven ex<g ref="char:EOLhyphen"/>preſſeth its triumphs to us
+<pb n="137" facs="tcp:36352:71"/>
+mortals, when tis pleaſed we ſhould know them here, that wee may enjoy them hereafter. And O, that now I could but pierce thorough that glorious be<g ref="char:EOLhyphen"/>ſpangled Canopy! O that I could but heare ſome ſoft eccho's only of that celeſti<g ref="char:EOLhyphen"/>all harmony! O how ſhould I be raviſhed with the ſweet mixture of that heavenly Muſicke! O that I could bee wrapt up and for ever dwell there! yea, would I were but a doore keeper in that quire, twere too much happineſſe, to beare a part in that celeſtiall conſort; and yet not to deſire it, is to loſe
+<pb n="138" facs="tcp:36352:72"/>
+it. Therefore, O my ſoul, till thou art fitted for this glo<g ref="char:EOLhyphen"/>rious Quire, let the ſweeteſt Muſicke thou enjoyeſt here, ſeem harſh diſcords, com<g ref="char:EOLhyphen"/>pared to that heavenly con<g ref="char:EOLhyphen"/>ſort, that quire of Angels, where thou mayeſt ſee what here thou couldſt not attain too; Jehovah prayſed in the height of harmony; in the perfection of Mu<g ref="char:EOLhyphen"/>ſicke.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:36352:72"/>
+            <head>The Table.</head>
+            <list>
+               <item>I MEditations and Confeſſions of mans ſinfull wayes.</item>
+               <item>II Meditations of a penitent ſin<g ref="char:EOLhyphen"/>ner, hoping for pardon through the merits of Chriſt.</item>
+               <item>III Meditations of the wonderfull goodnes, &amp; love of God to mankind.</item>
+               <item>IV Meditations of the love and ſufferings of our Saviour Chriſt for mankind.</item>
+               <item>V Meditations of Gods preſerva<g ref="char:EOLhyphen"/>tions of man.</item>
+               <item>VI Meditations of the miſeries and calamities of the time.</item>
+               <item>VII A prayer upon the ſame ſubject</item>
+               <item>VIII Meditations of Gods great love to his ſervant.</item>
+               <item>IX Meditations of the judgements and afflictions that attend people in this world for ſin.</item>
+               <item>X Meditations of the miſery of man from his infancy, to his old age.</item>
+               <item>XI Meditations on the ill life and actions of man.</item>
+               <item>
+                  <pb facs="tcp:36352:73"/>
+XII Meditations of the ingratitude of friends.</item>
+               <item>XIII Meditations of the vanity of pride.</item>
+               <item>XIV Meditations of Summer and Winter.</item>
+               <item>XV Meditations of the covetous rich-man, and the poore labouring man.</item>
+               <item>XVI Meditations of the ſufferings of Gods dear children in this world, and of the benefit they ſhall receive thereby.</item>
+               <item>XVII Meditations of the covetous deſire men have to attain riches.</item>
+               <item>XVIII Meditations of the feare of death.</item>
+               <item>XIX Meditations on the ſame ſub<g ref="char:EOLhyphen"/>ject, with ſatisfaction to him that feares death.</item>
+               <item>XX Meditations of the joyes of Heaven, reſerved for the godly.</item>
+               <item>XXI Meditations of mans vaine miſpending his time.</item>
+               <item>XXII Meditations on the ſight of a pleaſant Garden.</item>
+               <item>XXIII A Meditation on Muſick, in which as it were by way of digreſ<g ref="char:EOLhyphen"/>ſion, the lawfulneſſe of that Science is aſſerted:</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36352:73"/>
+         </div>
+      </back>
+   </text>
+</TEI>
